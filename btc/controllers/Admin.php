@@ -29,7 +29,9 @@ class Admin extends CI_Controller
         $data['title'] = "Welcome to Admin Panel";
         $data['user'] = $this->session->userdata('user');
         $data['buyer_id'] = $this->session->userdata('user')["login_id"];
-        $res = $this->db->query('SELECT * FROM subscribers');
+        // $res = $this->db->query('SELECT * FROM subscribers');
+        $res  = $this->db->query("SELECT * FROM subscribers AS s 
+                            INNER JOIN news_letter AS l ON s.letter_id=l.id");
         $data['coins'] = $res->result();
         $data['coinsrow'] = $res->row();
         // var_dump($data['coins']);exit;
@@ -51,6 +53,7 @@ class Admin extends CI_Controller
         $letter_id=basename(uri_string());
         if (is_numeric($letter_id)) {
             $res  = $this->db->query("SELECT * FROM news_letter WHERE id=?", [$letter_id]);
+
             $data['letter'] = $res->num_rows()? $res->result_array()[0]: 0;
             $data['letter_id'] = $letter_id;
         } else {

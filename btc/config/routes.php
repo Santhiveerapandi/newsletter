@@ -57,3 +57,5 @@ $route['Admin'] = 'Admin/index';
 $route['Admin/(:any)'] = 'Admin/logout';
 $route['login/loginaction']['post'] = "login/loginaction";
 $route['bitcoins/request/(:any)'] = 'bitcoins/request';
+
+$route['mailer'] = 'Mailer/index';

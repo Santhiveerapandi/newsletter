@@ -23,3 +23,7 @@ e.g. In Windows 10 Xampp Server G:\xampp\htdocs\
 4> Run application http://localhost/newsletter
 
 5> Admin Login & password: santhiveerapandi@gmail.com / sanchitra@1234
+
+6> sample mail content: G:\xampp\htdocs\newsletter\email\mailtrap.png
+
+7> Mysql Test created view & trigger

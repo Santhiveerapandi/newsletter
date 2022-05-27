@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 26, 2022 at 07:07 PM
+-- Generation Time: May 27, 2022 at 04:54 AM
 -- Server version: 10.4.24-MariaDB
 -- PHP Version: 7.4.29
 
@@ -64,7 +64,7 @@ CREATE TABLE `news_letter` (
 --
 
 INSERT INTO `news_letter` (`id`, `letter_name`, `subject`, `mail_content`, `updated_by`, `updated_at`, `created_at`) VALUES
-(1, 'May 2022 Monthly letter', 'Post One', '<p>Hello, World!</p>', 0, '0000-00-00 00:00:00', '2022-05-26 18:26:04'),
+(1, 'May 2022 Monthly letter', 'Post One', '<p>Hello #name,</p>\r\n<p>&nbsp; Lerom</p>\r\n<p>&nbsp;</p>\r\n<p>-- From Company</p>', 1, '2022-05-27 07:09:27', '2022-05-26 18:26:04'),
 (2, 'April 2022 Monthly letter', '', '', 0, '0000-00-00 00:00:00', '2022-05-26 18:26:04'),
 (3, 'March 2022 Monthly letter', '', '', 0, '0000-00-00 00:00:00', '2022-05-26 18:26:44'),
 (4, 'Feb 2022 Monthly letter', '', '', 0, '0000-00-00 00:00:00', '2022-05-26 18:26:44');
