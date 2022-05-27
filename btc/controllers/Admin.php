@@ -30,7 +30,7 @@ class Admin extends CI_Controller
         $data['user'] = $this->session->userdata('user');
         $data['buyer_id'] = $this->session->userdata('user')["login_id"];
         // $res = $this->db->query('SELECT * FROM subscribers');
-        $res  = $this->db->query("SELECT * FROM subscribers AS s 
+        $res  = $this->db->query("SELECT s.id AS sub_id, s.*,l.* FROM subscribers AS s 
                             INNER JOIN news_letter AS l ON s.letter_id=l.id");
         $data['coins'] = $res->result();
         $data['coinsrow'] = $res->row();
@@ -83,6 +83,7 @@ class Admin extends CI_Controller
         } else {
             $data['updated_by'] = $this->session->userdata('user')["login_id"];
             $output=$this->MailContent->letter($data['updated_by']);
+            $this->session->set_flashdata('message', $output['message']);
             redirect('admin');exit();
         }
     }

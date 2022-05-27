@@ -19,9 +19,16 @@
                 </div>
                 <!-- Card Body -->
                 <div class="card-body">
-                    <?php 
+                    <?php if($this->session->flashdata('message')): ?>
+                    <div class="message alert alert-danger">
+                        <?=$this->session->flashdata('message')?>
+                    </div>
+                    <?php endif; 
+
                     if ($coinsrow) { ?>
                     <div class="table-responsive">
+                        <form action="<?=base_url()?>index.php/mailer/sendmail"
+                            method="post">
                         <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                             <thead>
                                 <tr>
@@ -31,34 +38,50 @@
                                     <th>Mail Content</th>
                                     <th>Action</th>
                                 </tr>
+
                             </thead>
                             <tfoot>
                                 <tr>
-                                    <th><input type="checkbox" name="select-all" id="select-all"></th>
+                                    <th><input type="checkbox" name="select-all" id="select-all-bottom"></th>
                                     <th>Name</th>
                                     <th>Letter</th>
                                     <th>Mail Content</th>
                                     <th>Action</th>
                                 </tr>
+                                <tr><td colspan="5">
+                                <button type="submit" name="email_send" class="btn btn-primary">Email Send</button>
+                                <button type="submit" name="delete" class="btn btn-warning">Delete</button>
+                            </td></tr>
                             </tfoot>
                             <tbody>
-                             <?php
+                      
+                                <?php
+                                $csrf=array(
+                                    'name' => $this->security->get_csrf_token_name(),
+                                    'hash' => $this->security->get_csrf_hash()
+                                );
+                                echo form_hidden($csrf['name'], $csrf['hash']);
                                 foreach ($coins as $rec) {
-                                    echo "<tr><td><input type='checkbox' name='chk' value='{$rec->id}'></td><td>{$rec->name}</td><td>{$rec->letter_name}</td>
+                                    echo "<tr><td><input type='checkbox' name='chk[]' value='{$rec->sub_id}'></td><td>{$rec->name}</td><td>{$rec->letter_name}</td>
                                     <td>
                                     <a href='Admin/letter/{$rec->letter_id}'>edit</a>
                                     </td>
                                     <td>
-                                    <a href='mailer/sendmail/{$rec->id}'>
+                                    <a href='mailer/sendmail/{$rec->sub_id}'>
                                     Send mail
                                     </a></td>
                                     </tr>";
                                 }
-                            ?>
+                                ?>
+
                             </tbody>
                         </table>
-                    <?php } ?>
+                    </form>
                     </div>
+                    <?php } else {
+                        echo "No Subscribers Registered";
+                    } ?>
+                    
                 </div>
             </div>
         </div>
@@ -71,8 +94,21 @@
     
 <script type="text/javascript">
     
-    document.getElementById('select-all').onclick = function() {
+document.getElementById('select-all').onclick = function() {
     var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+    for (var checkbox of checkboxes) {
+        checkbox.checked = this.checked;
+    }
+}
+document.getElementById('select-all-bottom').onclick = function() {
+    var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+    for (var checkbox of checkboxes) {
+        checkbox.checked = this.checked;
+    }
+}
+
+document.getElementsByName('chk').onclick = function() {
+    var checkboxes = document.querySelectorAll('input[name="select-all"]');
     for (var checkbox of checkboxes) {
         checkbox.checked = this.checked;
     }

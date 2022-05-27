@@ -51,7 +51,7 @@ class Mailer extends CI_Controller {
         if (is_numeric($letter_id)) {
             $res  = $this->db->query("SELECT * FROM subscribers AS s 
 			            	INNER JOIN news_letter AS l ON s.letter_id=l.id 
-			            	WHERE s.letter_id=?", [$letter_id]);
+			            	WHERE s.id=?", [$letter_id]);
             $data['letter'] = is_object($res) && $res->num_rows()>0? 
             					$res->result_array()[0]: 0;
             $data['letter_id'] = $letter_id;
@@ -66,7 +66,74 @@ class Mailer extends CI_Controller {
 								$data['letter']['name'], 
 								$data['letter']['mail_content']);
 
-				$html_template ="<html>
+				
+				$html_template=$this->template($mail_content);
+				$this->email->message($html_template);
+
+				if ($this->email->send()) {
+					// echo 'Sent with success!';
+					$this->session->set_flashdata('message', 'Sent with success!');
+				} else {
+					show_error($this->email->print_debugger());
+				}
+				redirect('admin');exit();	
+            }
+        } else {
+        	$ids = $this->input->post('chk[]');
+        	if($this->input->post('delete')=="") {
+	            // var_dump($this->input->post(),$this->input->post('chk[]'));die();
+	            $this->db->where_in('id', $ids);
+				$this->db->delete('subscribers');
+				$this->session->set_flashdata('message', 'Deleted successfully!');
+	            redirect('admin');exit();
+	        }
+	        if($this->input->post('email_send')=="") {
+	           
+
+	            $this->db->select('subscribers.*,subscribers.id as subid,news_letter.*');
+				$this->db->from('subscribers');
+				$this->db->join('news_letter', 'news_letter.id = subscribers.letter_id');
+				// $ids = $this->input->post('chk[]');
+				$this->db->where_in('subscribers.id', $ids);
+				$res = $this->db->get();
+
+            	$data['letter'] = is_object($res) && $res->num_rows()>0? 
+            					$res->result_array(): 0;
+            	
+
+            	if(is_array($data['letter']) && count($data['letter'])>0) {
+            		foreach($data['letter'] as $data_out) {
+						$to = $data_out['email'];
+
+						$this->email->from($from);
+						$this->email->to($to);
+						$this->email->subject($data_out['subject']);
+						$mail_content=str_ireplace('#name', 
+										$data_out['name'], 
+										$data_out['mail_content']);
+
+            			$html_template=$this->template($mail_content);
+            			$this->email->message($html_template);
+            			if ($this->email->send()) {
+            				$this->db->set('mail_sent', '1');
+							$this->db->where('id', $data_out['subid']);
+							$this->db->update('subscribers');
+							//echo 'Sent with success!';
+							$this->session->set_flashdata('message', 'Sent with success!');
+						} else {
+							show_error($this->email->print_debugger());
+						}
+            		}
+            	}
+	            redirect('admin');exit();
+	        }
+       	
+
+        }
+	}
+
+	public function template($mail_content) {
+		return "<html>
 					<head>
 					<style>
 					body {
@@ -106,18 +173,6 @@ class Mailer extends CI_Controller {
 						</div>
 					</body>
 					</html>";
-				
-				$this->email->message($html_template);
-
-				if ($this->email->send()) {
-					echo 'Sent with success!';
-				} else {
-					show_error($this->email->print_debugger());
-				}	
-            }
-        } else {
-
-        }
 	}
 
 }

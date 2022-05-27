@@ -1,12 +1,12 @@
 .DS_Store
 
-application/cache/*
-!application/cache/index.html
+btc/cache/*
+!btc/cache/index.html
 
-application/logs/*
-!application/logs/index.html
+btc/logs/*
+!btc/logs/index.html
 
-!application/*/.htaccess
+!btc/*/.htaccess
 
 composer.lock
 tests/mocks/database/ci_test.sqlite
@@ -16,6 +16,10 @@ user_guide_src/cilexer/build/*
 user_guide_src/cilexer/dist/*
 user_guide_src/cilexer/pycilexer.egg-info/*
 /vendor/
+
+# Session log
+btc/sess_data/*
+btc/logs/*
 
 # IDE Files
 #-------------------------

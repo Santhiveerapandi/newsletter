@@ -17,6 +17,7 @@ class MailContent extends CI_Model
         $data['updated_by']     = $updated_by;
         $this->db->where('id', $_POST['letter_id']);
         $this->db->update('news_letter', $data);
+        return ['message'=>'Updated Successfully'];
     }
 }
 

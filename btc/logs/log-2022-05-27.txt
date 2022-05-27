@@ -1744,3 +1744,2053 @@ INFO - 2022-05-27 05:11:38 --> File loaded: G:\xampp\htdocs\newsletter\btc\views
 INFO - 2022-05-27 05:11:38 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
 INFO - 2022-05-27 05:11:38 --> Final output sent to browser
 DEBUG - 2022-05-27 05:11:38 --> Total execution time: 0.1014
+ERROR - 2022-05-27 06:50:45 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:50:45 --> Config Class Initialized
+INFO - 2022-05-27 06:50:45 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:50:45 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:50:45 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:50:45 --> URI Class Initialized
+INFO - 2022-05-27 06:50:45 --> Router Class Initialized
+INFO - 2022-05-27 06:50:45 --> Output Class Initialized
+INFO - 2022-05-27 06:50:45 --> Security Class Initialized
+DEBUG - 2022-05-27 06:50:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:50:45 --> CSRF cookie sent
+INFO - 2022-05-27 06:50:45 --> Input Class Initialized
+INFO - 2022-05-27 06:50:45 --> Language Class Initialized
+INFO - 2022-05-27 06:50:45 --> Loader Class Initialized
+INFO - 2022-05-27 06:50:45 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:50:45 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:50:45 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:50:45 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:50:46 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:50:46 --> Email Class Initialized
+INFO - 2022-05-27 06:50:46 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:50:46 --> Model "Users" initialized
+INFO - 2022-05-27 06:50:46 --> Controller Class Initialized
+INFO - 2022-05-27 06:50:46 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 06:50:46 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 06:50:46 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\mailer/form.php
+INFO - 2022-05-27 06:50:46 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 06:50:46 --> Final output sent to browser
+DEBUG - 2022-05-27 06:50:46 --> Total execution time: 1.0909
+ERROR - 2022-05-27 06:50:46 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:50:46 --> Config Class Initialized
+INFO - 2022-05-27 06:50:46 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:50:46 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:50:46 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:50:46 --> URI Class Initialized
+INFO - 2022-05-27 06:50:46 --> Router Class Initialized
+INFO - 2022-05-27 06:50:46 --> Output Class Initialized
+INFO - 2022-05-27 06:50:46 --> Security Class Initialized
+DEBUG - 2022-05-27 06:50:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:50:46 --> CSRF cookie sent
+INFO - 2022-05-27 06:50:46 --> Input Class Initialized
+INFO - 2022-05-27 06:50:46 --> Language Class Initialized
+INFO - 2022-05-27 06:50:46 --> Loader Class Initialized
+INFO - 2022-05-27 06:50:46 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:50:46 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:50:46 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:50:46 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:50:46 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:50:46 --> Email Class Initialized
+INFO - 2022-05-27 06:50:46 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:50:46 --> Model "Users" initialized
+INFO - 2022-05-27 06:50:46 --> Controller Class Initialized
+INFO - 2022-05-27 06:50:46 --> Model "MailContent" initialized
+INFO - 2022-05-27 06:50:47 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 06:50:47 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 06:50:47 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 06:50:47 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 06:50:47 --> Final output sent to browser
+DEBUG - 2022-05-27 06:50:47 --> Total execution time: 0.2877
+ERROR - 2022-05-27 06:51:57 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:51:57 --> Config Class Initialized
+INFO - 2022-05-27 06:51:57 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:51:57 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:51:57 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:51:57 --> URI Class Initialized
+INFO - 2022-05-27 06:51:57 --> Router Class Initialized
+INFO - 2022-05-27 06:51:57 --> Output Class Initialized
+INFO - 2022-05-27 06:51:57 --> Security Class Initialized
+DEBUG - 2022-05-27 06:51:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:51:57 --> CSRF cookie sent
+INFO - 2022-05-27 06:51:57 --> Input Class Initialized
+INFO - 2022-05-27 06:51:57 --> Language Class Initialized
+INFO - 2022-05-27 06:51:57 --> Loader Class Initialized
+INFO - 2022-05-27 06:51:57 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:51:57 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:51:57 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:51:57 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:51:57 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:51:57 --> Email Class Initialized
+INFO - 2022-05-27 06:51:57 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:51:57 --> Model "Users" initialized
+INFO - 2022-05-27 06:51:57 --> Controller Class Initialized
+INFO - 2022-05-27 06:51:57 --> Model "MailContent" initialized
+INFO - 2022-05-27 06:51:57 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 06:51:57 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 06:51:57 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 06:51:57 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 06:51:57 --> Final output sent to browser
+DEBUG - 2022-05-27 06:51:57 --> Total execution time: 0.1149
+ERROR - 2022-05-27 06:52:10 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:52:10 --> Config Class Initialized
+INFO - 2022-05-27 06:52:10 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:52:10 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:52:10 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:52:10 --> URI Class Initialized
+INFO - 2022-05-27 06:52:10 --> Router Class Initialized
+INFO - 2022-05-27 06:52:10 --> Output Class Initialized
+INFO - 2022-05-27 06:52:10 --> Security Class Initialized
+DEBUG - 2022-05-27 06:52:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:52:10 --> CSRF cookie sent
+INFO - 2022-05-27 06:52:10 --> Input Class Initialized
+INFO - 2022-05-27 06:52:10 --> Language Class Initialized
+INFO - 2022-05-27 06:52:10 --> Loader Class Initialized
+INFO - 2022-05-27 06:52:10 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:52:10 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:52:10 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:52:10 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:52:10 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:52:10 --> Email Class Initialized
+INFO - 2022-05-27 06:52:10 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:52:10 --> Model "Users" initialized
+INFO - 2022-05-27 06:52:10 --> Controller Class Initialized
+INFO - 2022-05-27 06:52:10 --> Model "MailContent" initialized
+ERROR - 2022-05-27 06:52:10 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:52:10 --> Config Class Initialized
+INFO - 2022-05-27 06:52:10 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:52:10 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:52:10 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:52:10 --> URI Class Initialized
+INFO - 2022-05-27 06:52:10 --> Router Class Initialized
+INFO - 2022-05-27 06:52:10 --> Output Class Initialized
+INFO - 2022-05-27 06:52:10 --> Security Class Initialized
+DEBUG - 2022-05-27 06:52:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:52:10 --> CSRF cookie sent
+INFO - 2022-05-27 06:52:10 --> Input Class Initialized
+INFO - 2022-05-27 06:52:10 --> Language Class Initialized
+INFO - 2022-05-27 06:52:10 --> Loader Class Initialized
+INFO - 2022-05-27 06:52:10 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:52:10 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:52:10 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:52:10 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:52:10 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:52:10 --> Email Class Initialized
+INFO - 2022-05-27 06:52:10 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:52:10 --> Model "Users" initialized
+INFO - 2022-05-27 06:52:10 --> Controller Class Initialized
+INFO - 2022-05-27 06:52:10 --> Model "Login_Model" initialized
+INFO - 2022-05-27 06:52:11 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/header.php
+INFO - 2022-05-27 06:52:11 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\login.php
+INFO - 2022-05-27 06:52:11 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/footer.php
+INFO - 2022-05-27 06:52:11 --> Final output sent to browser
+DEBUG - 2022-05-27 06:52:11 --> Total execution time: 0.1839
+ERROR - 2022-05-27 06:52:30 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:52:30 --> Config Class Initialized
+INFO - 2022-05-27 06:52:30 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:52:30 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:52:30 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:52:30 --> URI Class Initialized
+INFO - 2022-05-27 06:52:30 --> Router Class Initialized
+INFO - 2022-05-27 06:52:30 --> Output Class Initialized
+INFO - 2022-05-27 06:52:30 --> Security Class Initialized
+DEBUG - 2022-05-27 06:52:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:52:30 --> CSRF cookie sent
+INFO - 2022-05-27 06:52:30 --> Input Class Initialized
+INFO - 2022-05-27 06:52:30 --> Language Class Initialized
+INFO - 2022-05-27 06:52:30 --> Loader Class Initialized
+INFO - 2022-05-27 06:52:30 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:52:30 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:52:30 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:52:30 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:52:30 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:52:30 --> Email Class Initialized
+INFO - 2022-05-27 06:52:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:52:30 --> Model "Users" initialized
+INFO - 2022-05-27 06:52:30 --> Controller Class Initialized
+INFO - 2022-05-27 06:52:30 --> Model "Login_Model" initialized
+INFO - 2022-05-27 06:52:30 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/header.php
+INFO - 2022-05-27 06:52:30 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\subscribe.php
+INFO - 2022-05-27 06:52:30 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/footer.php
+INFO - 2022-05-27 06:52:30 --> Final output sent to browser
+DEBUG - 2022-05-27 06:52:30 --> Total execution time: 0.1220
+ERROR - 2022-05-27 06:52:36 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:52:36 --> Config Class Initialized
+INFO - 2022-05-27 06:52:36 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:52:36 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:52:36 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:52:36 --> URI Class Initialized
+INFO - 2022-05-27 06:52:36 --> Router Class Initialized
+INFO - 2022-05-27 06:52:36 --> Output Class Initialized
+INFO - 2022-05-27 06:52:36 --> Security Class Initialized
+DEBUG - 2022-05-27 06:52:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:52:36 --> CSRF cookie sent
+INFO - 2022-05-27 06:52:36 --> CSRF token verified
+INFO - 2022-05-27 06:52:36 --> Input Class Initialized
+INFO - 2022-05-27 06:52:36 --> Language Class Initialized
+INFO - 2022-05-27 06:52:36 --> Loader Class Initialized
+INFO - 2022-05-27 06:52:36 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:52:36 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:52:36 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:52:36 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:52:36 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:52:36 --> Email Class Initialized
+INFO - 2022-05-27 06:52:36 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:52:36 --> Model "Users" initialized
+INFO - 2022-05-27 06:52:36 --> Controller Class Initialized
+INFO - 2022-05-27 06:52:36 --> Model "Login_Model" initialized
+INFO - 2022-05-27 06:52:37 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2022-05-27 06:52:37 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:52:37 --> Config Class Initialized
+INFO - 2022-05-27 06:52:37 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:52:37 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:52:37 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:52:37 --> URI Class Initialized
+INFO - 2022-05-27 06:52:37 --> Router Class Initialized
+INFO - 2022-05-27 06:52:37 --> Output Class Initialized
+INFO - 2022-05-27 06:52:37 --> Security Class Initialized
+DEBUG - 2022-05-27 06:52:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:52:37 --> CSRF cookie sent
+INFO - 2022-05-27 06:52:37 --> Input Class Initialized
+INFO - 2022-05-27 06:52:37 --> Language Class Initialized
+INFO - 2022-05-27 06:52:37 --> Loader Class Initialized
+INFO - 2022-05-27 06:52:37 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:52:37 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:52:37 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:52:37 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:52:37 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:52:37 --> Email Class Initialized
+INFO - 2022-05-27 06:52:37 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:52:37 --> Model "Users" initialized
+INFO - 2022-05-27 06:52:37 --> Controller Class Initialized
+INFO - 2022-05-27 06:52:37 --> Model "Login_Model" initialized
+INFO - 2022-05-27 06:52:37 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/header.php
+INFO - 2022-05-27 06:52:37 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\login.php
+INFO - 2022-05-27 06:52:37 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/footer.php
+INFO - 2022-05-27 06:52:37 --> Final output sent to browser
+DEBUG - 2022-05-27 06:52:37 --> Total execution time: 0.1797
+ERROR - 2022-05-27 06:52:39 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:52:39 --> Config Class Initialized
+INFO - 2022-05-27 06:52:39 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:52:39 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:52:39 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:52:39 --> URI Class Initialized
+INFO - 2022-05-27 06:52:39 --> Router Class Initialized
+INFO - 2022-05-27 06:52:39 --> Output Class Initialized
+INFO - 2022-05-27 06:52:39 --> Security Class Initialized
+DEBUG - 2022-05-27 06:52:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:52:39 --> CSRF cookie sent
+INFO - 2022-05-27 06:52:39 --> Input Class Initialized
+INFO - 2022-05-27 06:52:39 --> Language Class Initialized
+INFO - 2022-05-27 06:52:39 --> Loader Class Initialized
+INFO - 2022-05-27 06:52:39 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:52:39 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:52:39 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:52:39 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:52:39 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:52:39 --> Email Class Initialized
+INFO - 2022-05-27 06:52:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:52:39 --> Model "Users" initialized
+INFO - 2022-05-27 06:52:39 --> Controller Class Initialized
+INFO - 2022-05-27 06:52:39 --> Model "Login_Model" initialized
+INFO - 2022-05-27 06:52:39 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/header.php
+INFO - 2022-05-27 06:52:39 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\subscribe.php
+INFO - 2022-05-27 06:52:39 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/footer.php
+INFO - 2022-05-27 06:52:39 --> Final output sent to browser
+DEBUG - 2022-05-27 06:52:39 --> Total execution time: 0.1005
+ERROR - 2022-05-27 06:52:50 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:52:50 --> Config Class Initialized
+INFO - 2022-05-27 06:52:50 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:52:50 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:52:50 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:52:50 --> URI Class Initialized
+INFO - 2022-05-27 06:52:50 --> Router Class Initialized
+INFO - 2022-05-27 06:52:50 --> Output Class Initialized
+INFO - 2022-05-27 06:52:50 --> Security Class Initialized
+DEBUG - 2022-05-27 06:52:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:52:50 --> CSRF cookie sent
+INFO - 2022-05-27 06:52:50 --> CSRF token verified
+INFO - 2022-05-27 06:52:50 --> Input Class Initialized
+INFO - 2022-05-27 06:52:50 --> Language Class Initialized
+INFO - 2022-05-27 06:52:50 --> Loader Class Initialized
+INFO - 2022-05-27 06:52:50 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:52:50 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:52:50 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:52:50 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:52:50 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:52:50 --> Email Class Initialized
+INFO - 2022-05-27 06:52:50 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:52:50 --> Model "Users" initialized
+INFO - 2022-05-27 06:52:50 --> Controller Class Initialized
+INFO - 2022-05-27 06:52:50 --> Model "Login_Model" initialized
+INFO - 2022-05-27 06:52:50 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2022-05-27 06:52:50 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:52:50 --> Config Class Initialized
+INFO - 2022-05-27 06:52:50 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:52:50 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:52:50 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:52:50 --> URI Class Initialized
+INFO - 2022-05-27 06:52:50 --> Router Class Initialized
+INFO - 2022-05-27 06:52:50 --> Output Class Initialized
+INFO - 2022-05-27 06:52:50 --> Security Class Initialized
+DEBUG - 2022-05-27 06:52:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:52:50 --> CSRF cookie sent
+INFO - 2022-05-27 06:52:50 --> Input Class Initialized
+INFO - 2022-05-27 06:52:50 --> Language Class Initialized
+INFO - 2022-05-27 06:52:50 --> Loader Class Initialized
+INFO - 2022-05-27 06:52:50 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:52:50 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:52:50 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:52:50 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:52:50 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:52:50 --> Email Class Initialized
+INFO - 2022-05-27 06:52:50 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:52:50 --> Model "Users" initialized
+INFO - 2022-05-27 06:52:50 --> Controller Class Initialized
+INFO - 2022-05-27 06:52:50 --> Model "Login_Model" initialized
+INFO - 2022-05-27 06:52:50 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/header.php
+INFO - 2022-05-27 06:52:50 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\subscribe.php
+INFO - 2022-05-27 06:52:50 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/footer.php
+INFO - 2022-05-27 06:52:50 --> Final output sent to browser
+DEBUG - 2022-05-27 06:52:50 --> Total execution time: 0.0961
+ERROR - 2022-05-27 06:53:07 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:53:07 --> Config Class Initialized
+INFO - 2022-05-27 06:53:07 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:53:07 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:53:07 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:53:07 --> URI Class Initialized
+INFO - 2022-05-27 06:53:07 --> Router Class Initialized
+INFO - 2022-05-27 06:53:07 --> Output Class Initialized
+INFO - 2022-05-27 06:53:07 --> Security Class Initialized
+DEBUG - 2022-05-27 06:53:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:53:07 --> CSRF cookie sent
+INFO - 2022-05-27 06:53:07 --> CSRF token verified
+INFO - 2022-05-27 06:53:07 --> Input Class Initialized
+INFO - 2022-05-27 06:53:07 --> Language Class Initialized
+INFO - 2022-05-27 06:53:07 --> Loader Class Initialized
+INFO - 2022-05-27 06:53:07 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:53:07 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:53:07 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:53:07 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:53:07 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:53:07 --> Email Class Initialized
+INFO - 2022-05-27 06:53:07 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:53:07 --> Model "Users" initialized
+INFO - 2022-05-27 06:53:07 --> Controller Class Initialized
+INFO - 2022-05-27 06:53:07 --> Model "Login_Model" initialized
+INFO - 2022-05-27 06:53:07 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2022-05-27 06:53:07 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:53:08 --> Config Class Initialized
+INFO - 2022-05-27 06:53:08 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:53:08 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:53:08 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:53:08 --> URI Class Initialized
+INFO - 2022-05-27 06:53:08 --> Router Class Initialized
+INFO - 2022-05-27 06:53:08 --> Output Class Initialized
+INFO - 2022-05-27 06:53:08 --> Security Class Initialized
+DEBUG - 2022-05-27 06:53:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:53:08 --> CSRF cookie sent
+INFO - 2022-05-27 06:53:08 --> Input Class Initialized
+INFO - 2022-05-27 06:53:08 --> Language Class Initialized
+INFO - 2022-05-27 06:53:08 --> Loader Class Initialized
+INFO - 2022-05-27 06:53:08 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:53:08 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:53:08 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:53:08 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:53:08 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:53:08 --> Email Class Initialized
+INFO - 2022-05-27 06:53:08 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:53:08 --> Model "Users" initialized
+INFO - 2022-05-27 06:53:08 --> Controller Class Initialized
+INFO - 2022-05-27 06:53:08 --> Model "Login_Model" initialized
+INFO - 2022-05-27 06:53:08 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/header.php
+INFO - 2022-05-27 06:53:08 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\login.php
+INFO - 2022-05-27 06:53:08 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/footer.php
+INFO - 2022-05-27 06:53:08 --> Final output sent to browser
+DEBUG - 2022-05-27 06:53:08 --> Total execution time: 0.1810
+ERROR - 2022-05-27 06:53:12 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:53:12 --> Config Class Initialized
+INFO - 2022-05-27 06:53:12 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:53:12 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:53:12 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:53:12 --> URI Class Initialized
+INFO - 2022-05-27 06:53:12 --> Router Class Initialized
+INFO - 2022-05-27 06:53:12 --> Output Class Initialized
+INFO - 2022-05-27 06:53:12 --> Security Class Initialized
+DEBUG - 2022-05-27 06:53:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:53:12 --> CSRF cookie sent
+INFO - 2022-05-27 06:53:12 --> Input Class Initialized
+INFO - 2022-05-27 06:53:12 --> Language Class Initialized
+INFO - 2022-05-27 06:53:12 --> Loader Class Initialized
+INFO - 2022-05-27 06:53:12 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:53:12 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:53:12 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:53:12 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:53:12 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:53:12 --> Email Class Initialized
+INFO - 2022-05-27 06:53:12 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:53:12 --> Model "Users" initialized
+INFO - 2022-05-27 06:53:12 --> Controller Class Initialized
+INFO - 2022-05-27 06:53:12 --> Model "Login_Model" initialized
+INFO - 2022-05-27 06:53:12 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/header.php
+INFO - 2022-05-27 06:53:12 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\subscribe.php
+INFO - 2022-05-27 06:53:12 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/footer.php
+INFO - 2022-05-27 06:53:12 --> Final output sent to browser
+DEBUG - 2022-05-27 06:53:12 --> Total execution time: 0.0996
+ERROR - 2022-05-27 06:53:22 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:53:22 --> Config Class Initialized
+INFO - 2022-05-27 06:53:22 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:53:22 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:53:22 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:53:22 --> URI Class Initialized
+INFO - 2022-05-27 06:53:22 --> Router Class Initialized
+INFO - 2022-05-27 06:53:22 --> Output Class Initialized
+INFO - 2022-05-27 06:53:22 --> Security Class Initialized
+DEBUG - 2022-05-27 06:53:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:53:22 --> CSRF cookie sent
+INFO - 2022-05-27 06:53:22 --> CSRF token verified
+INFO - 2022-05-27 06:53:22 --> Input Class Initialized
+INFO - 2022-05-27 06:53:22 --> Language Class Initialized
+INFO - 2022-05-27 06:53:22 --> Loader Class Initialized
+INFO - 2022-05-27 06:53:22 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:53:22 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:53:22 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:53:22 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:53:22 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:53:22 --> Email Class Initialized
+INFO - 2022-05-27 06:53:22 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:53:22 --> Model "Users" initialized
+INFO - 2022-05-27 06:53:22 --> Controller Class Initialized
+INFO - 2022-05-27 06:53:22 --> Model "Login_Model" initialized
+INFO - 2022-05-27 06:53:22 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2022-05-27 06:53:23 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:53:23 --> Config Class Initialized
+INFO - 2022-05-27 06:53:23 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:53:23 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:53:23 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:53:23 --> URI Class Initialized
+INFO - 2022-05-27 06:53:23 --> Router Class Initialized
+INFO - 2022-05-27 06:53:23 --> Output Class Initialized
+INFO - 2022-05-27 06:53:23 --> Security Class Initialized
+DEBUG - 2022-05-27 06:53:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:53:23 --> CSRF cookie sent
+INFO - 2022-05-27 06:53:23 --> Input Class Initialized
+INFO - 2022-05-27 06:53:23 --> Language Class Initialized
+INFO - 2022-05-27 06:53:23 --> Loader Class Initialized
+INFO - 2022-05-27 06:53:23 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:53:23 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:53:23 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:53:23 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:53:23 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:53:23 --> Email Class Initialized
+INFO - 2022-05-27 06:53:23 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:53:23 --> Model "Users" initialized
+INFO - 2022-05-27 06:53:23 --> Controller Class Initialized
+INFO - 2022-05-27 06:53:23 --> Model "Login_Model" initialized
+INFO - 2022-05-27 06:53:23 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/header.php
+INFO - 2022-05-27 06:53:23 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\login.php
+INFO - 2022-05-27 06:53:23 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\layout/footer.php
+INFO - 2022-05-27 06:53:23 --> Final output sent to browser
+DEBUG - 2022-05-27 06:53:23 --> Total execution time: 0.1461
+ERROR - 2022-05-27 06:53:33 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:53:33 --> Config Class Initialized
+INFO - 2022-05-27 06:53:33 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:53:33 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:53:33 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:53:33 --> URI Class Initialized
+INFO - 2022-05-27 06:53:33 --> Router Class Initialized
+INFO - 2022-05-27 06:53:33 --> Output Class Initialized
+INFO - 2022-05-27 06:53:33 --> Security Class Initialized
+DEBUG - 2022-05-27 06:53:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:53:33 --> CSRF cookie sent
+INFO - 2022-05-27 06:53:33 --> CSRF token verified
+INFO - 2022-05-27 06:53:33 --> Input Class Initialized
+INFO - 2022-05-27 06:53:33 --> Language Class Initialized
+INFO - 2022-05-27 06:53:33 --> Loader Class Initialized
+INFO - 2022-05-27 06:53:33 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:53:33 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:53:33 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:53:33 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:53:33 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:53:33 --> Email Class Initialized
+INFO - 2022-05-27 06:53:33 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:53:33 --> Model "Users" initialized
+INFO - 2022-05-27 06:53:33 --> Controller Class Initialized
+INFO - 2022-05-27 06:53:33 --> Model "Login_Model" initialized
+INFO - 2022-05-27 06:53:33 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2022-05-27 06:53:33 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:53:33 --> Config Class Initialized
+INFO - 2022-05-27 06:53:33 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:53:33 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:53:33 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:53:33 --> URI Class Initialized
+INFO - 2022-05-27 06:53:33 --> Router Class Initialized
+INFO - 2022-05-27 06:53:33 --> Output Class Initialized
+INFO - 2022-05-27 06:53:33 --> Security Class Initialized
+DEBUG - 2022-05-27 06:53:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:53:33 --> CSRF cookie sent
+INFO - 2022-05-27 06:53:33 --> Input Class Initialized
+INFO - 2022-05-27 06:53:33 --> Language Class Initialized
+INFO - 2022-05-27 06:53:33 --> Loader Class Initialized
+INFO - 2022-05-27 06:53:33 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:53:33 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:53:33 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:53:33 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:53:33 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:53:33 --> Email Class Initialized
+INFO - 2022-05-27 06:53:33 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:53:33 --> Model "Users" initialized
+INFO - 2022-05-27 06:53:33 --> Controller Class Initialized
+INFO - 2022-05-27 06:53:33 --> Model "MailContent" initialized
+INFO - 2022-05-27 06:53:33 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 06:53:33 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 06:53:33 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 06:53:33 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 06:53:33 --> Final output sent to browser
+DEBUG - 2022-05-27 06:53:33 --> Total execution time: 0.2165
+ERROR - 2022-05-27 06:54:38 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:54:38 --> Config Class Initialized
+INFO - 2022-05-27 06:54:38 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:54:38 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:54:38 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:54:38 --> URI Class Initialized
+INFO - 2022-05-27 06:54:38 --> Router Class Initialized
+INFO - 2022-05-27 06:54:38 --> Output Class Initialized
+INFO - 2022-05-27 06:54:38 --> Security Class Initialized
+DEBUG - 2022-05-27 06:54:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:54:38 --> CSRF cookie sent
+INFO - 2022-05-27 06:54:38 --> Input Class Initialized
+INFO - 2022-05-27 06:54:38 --> Language Class Initialized
+INFO - 2022-05-27 06:54:38 --> Loader Class Initialized
+INFO - 2022-05-27 06:54:38 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:54:38 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:54:38 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:54:38 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:54:38 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:54:38 --> Email Class Initialized
+INFO - 2022-05-27 06:54:38 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:54:38 --> Model "Users" initialized
+INFO - 2022-05-27 06:54:38 --> Controller Class Initialized
+INFO - 2022-05-27 06:54:38 --> Model "MailContent" initialized
+INFO - 2022-05-27 06:54:38 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 06:54:38 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 06:54:38 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 06:54:38 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 06:54:38 --> Final output sent to browser
+DEBUG - 2022-05-27 06:54:38 --> Total execution time: 0.0994
+ERROR - 2022-05-27 06:56:07 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:56:07 --> Config Class Initialized
+INFO - 2022-05-27 06:56:07 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:56:07 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:56:07 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:56:07 --> URI Class Initialized
+INFO - 2022-05-27 06:56:07 --> Router Class Initialized
+INFO - 2022-05-27 06:56:07 --> Output Class Initialized
+INFO - 2022-05-27 06:56:07 --> Security Class Initialized
+DEBUG - 2022-05-27 06:56:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:56:07 --> CSRF cookie sent
+INFO - 2022-05-27 06:56:07 --> Input Class Initialized
+INFO - 2022-05-27 06:56:07 --> Language Class Initialized
+INFO - 2022-05-27 06:56:07 --> Loader Class Initialized
+INFO - 2022-05-27 06:56:07 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:56:07 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:56:07 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:56:07 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:56:07 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:56:07 --> Email Class Initialized
+INFO - 2022-05-27 06:56:07 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:56:07 --> Model "Users" initialized
+INFO - 2022-05-27 06:56:07 --> Controller Class Initialized
+INFO - 2022-05-27 06:56:07 --> Model "MailContent" initialized
+INFO - 2022-05-27 06:56:07 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 06:56:07 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 06:56:07 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 06:56:07 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 06:56:07 --> Final output sent to browser
+DEBUG - 2022-05-27 06:56:07 --> Total execution time: 0.1249
+ERROR - 2022-05-27 06:57:05 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:57:05 --> Config Class Initialized
+INFO - 2022-05-27 06:57:05 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:57:05 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:57:05 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:57:05 --> URI Class Initialized
+INFO - 2022-05-27 06:57:05 --> Router Class Initialized
+INFO - 2022-05-27 06:57:05 --> Output Class Initialized
+INFO - 2022-05-27 06:57:05 --> Security Class Initialized
+DEBUG - 2022-05-27 06:57:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:57:05 --> CSRF cookie sent
+INFO - 2022-05-27 06:57:05 --> Input Class Initialized
+INFO - 2022-05-27 06:57:05 --> Language Class Initialized
+INFO - 2022-05-27 06:57:05 --> Loader Class Initialized
+INFO - 2022-05-27 06:57:05 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:57:05 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:57:05 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:57:05 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:57:05 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:57:05 --> Email Class Initialized
+INFO - 2022-05-27 06:57:05 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:57:05 --> Model "Users" initialized
+INFO - 2022-05-27 06:57:05 --> Controller Class Initialized
+INFO - 2022-05-27 06:57:05 --> Model "MailContent" initialized
+INFO - 2022-05-27 06:57:05 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 06:57:05 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 06:57:05 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 06:57:05 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 06:57:05 --> Final output sent to browser
+DEBUG - 2022-05-27 06:57:05 --> Total execution time: 0.0803
+ERROR - 2022-05-27 06:57:27 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 06:57:27 --> Config Class Initialized
+INFO - 2022-05-27 06:57:27 --> Hooks Class Initialized
+DEBUG - 2022-05-27 06:57:27 --> UTF-8 Support Enabled
+INFO - 2022-05-27 06:57:27 --> Utf8 Class Initialized
+INFO - 2022-05-27 06:57:27 --> URI Class Initialized
+INFO - 2022-05-27 06:57:27 --> Router Class Initialized
+INFO - 2022-05-27 06:57:27 --> Output Class Initialized
+INFO - 2022-05-27 06:57:27 --> Security Class Initialized
+DEBUG - 2022-05-27 06:57:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 06:57:27 --> CSRF cookie sent
+INFO - 2022-05-27 06:57:27 --> Input Class Initialized
+INFO - 2022-05-27 06:57:27 --> Language Class Initialized
+INFO - 2022-05-27 06:57:27 --> Loader Class Initialized
+INFO - 2022-05-27 06:57:27 --> Helper loaded: url_helper
+INFO - 2022-05-27 06:57:27 --> Helper loaded: form_helper
+INFO - 2022-05-27 06:57:27 --> Helper loaded: file_helper
+INFO - 2022-05-27 06:57:27 --> Database Driver Class Initialized
+INFO - 2022-05-27 06:57:27 --> Form Validation Class Initialized
+INFO - 2022-05-27 06:57:27 --> Email Class Initialized
+INFO - 2022-05-27 06:57:27 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 06:57:27 --> Model "Users" initialized
+INFO - 2022-05-27 06:57:27 --> Controller Class Initialized
+INFO - 2022-05-27 06:57:27 --> Model "MailContent" initialized
+INFO - 2022-05-27 06:57:27 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 06:57:27 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 06:57:27 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 06:57:27 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 06:57:27 --> Final output sent to browser
+DEBUG - 2022-05-27 06:57:27 --> Total execution time: 0.1006
+ERROR - 2022-05-27 07:16:38 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:16:38 --> Config Class Initialized
+INFO - 2022-05-27 07:16:38 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:16:38 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:16:38 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:16:38 --> URI Class Initialized
+INFO - 2022-05-27 07:16:38 --> Router Class Initialized
+INFO - 2022-05-27 07:16:38 --> Output Class Initialized
+INFO - 2022-05-27 07:16:38 --> Security Class Initialized
+DEBUG - 2022-05-27 07:16:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:16:38 --> CSRF cookie sent
+INFO - 2022-05-27 07:16:38 --> Input Class Initialized
+INFO - 2022-05-27 07:16:38 --> Language Class Initialized
+INFO - 2022-05-27 07:16:38 --> Loader Class Initialized
+INFO - 2022-05-27 07:16:38 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:16:38 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:16:38 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:16:38 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:16:38 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:16:38 --> Email Class Initialized
+INFO - 2022-05-27 07:16:38 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:16:38 --> Model "Users" initialized
+INFO - 2022-05-27 07:16:38 --> Controller Class Initialized
+INFO - 2022-05-27 07:16:38 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:16:38 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:16:38 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:16:38 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:16:38 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:16:38 --> Final output sent to browser
+DEBUG - 2022-05-27 07:16:38 --> Total execution time: 0.5570
+ERROR - 2022-05-27 07:16:47 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:16:47 --> Config Class Initialized
+INFO - 2022-05-27 07:16:47 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:16:47 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:16:47 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:16:47 --> URI Class Initialized
+INFO - 2022-05-27 07:16:47 --> Router Class Initialized
+INFO - 2022-05-27 07:16:47 --> Output Class Initialized
+INFO - 2022-05-27 07:16:47 --> Security Class Initialized
+DEBUG - 2022-05-27 07:16:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:16:47 --> CSRF cookie sent
+INFO - 2022-05-27 07:16:47 --> CSRF token verified
+INFO - 2022-05-27 07:16:47 --> Input Class Initialized
+INFO - 2022-05-27 07:16:47 --> Language Class Initialized
+INFO - 2022-05-27 07:16:47 --> Loader Class Initialized
+INFO - 2022-05-27 07:16:47 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:16:47 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:16:47 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:16:47 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:16:47 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:16:47 --> Email Class Initialized
+INFO - 2022-05-27 07:16:47 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:16:47 --> Model "Users" initialized
+INFO - 2022-05-27 07:16:47 --> Controller Class Initialized
+INFO - 2022-05-27 07:16:47 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:16:47 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2022-05-27 07:16:47 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:16:47 --> Config Class Initialized
+INFO - 2022-05-27 07:16:47 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:16:47 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:16:47 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:16:47 --> URI Class Initialized
+INFO - 2022-05-27 07:16:47 --> Router Class Initialized
+INFO - 2022-05-27 07:16:47 --> Output Class Initialized
+INFO - 2022-05-27 07:16:47 --> Security Class Initialized
+DEBUG - 2022-05-27 07:16:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:16:47 --> CSRF cookie sent
+INFO - 2022-05-27 07:16:47 --> Input Class Initialized
+INFO - 2022-05-27 07:16:47 --> Language Class Initialized
+INFO - 2022-05-27 07:16:47 --> Loader Class Initialized
+INFO - 2022-05-27 07:16:47 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:16:47 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:16:47 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:16:47 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:16:47 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:16:47 --> Email Class Initialized
+INFO - 2022-05-27 07:16:47 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:16:47 --> Model "Users" initialized
+INFO - 2022-05-27 07:16:47 --> Controller Class Initialized
+INFO - 2022-05-27 07:16:47 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:16:47 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:16:47 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+ERROR - 2022-05-27 07:16:47 --> Severity: Notice --> Undefined variable: letter_id G:\xampp\htdocs\newsletter\btc\views\_admin_panel\letter.php 33
+INFO - 2022-05-27 07:16:47 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/letter.php
+INFO - 2022-05-27 07:16:47 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:16:47 --> Final output sent to browser
+DEBUG - 2022-05-27 07:16:47 --> Total execution time: 0.1857
+ERROR - 2022-05-27 07:17:03 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:17:03 --> Config Class Initialized
+INFO - 2022-05-27 07:17:03 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:17:03 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:17:03 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:17:03 --> URI Class Initialized
+INFO - 2022-05-27 07:17:03 --> Router Class Initialized
+INFO - 2022-05-27 07:17:03 --> Output Class Initialized
+INFO - 2022-05-27 07:17:03 --> Security Class Initialized
+DEBUG - 2022-05-27 07:17:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:17:03 --> CSRF cookie sent
+INFO - 2022-05-27 07:17:03 --> Input Class Initialized
+INFO - 2022-05-27 07:17:03 --> Language Class Initialized
+INFO - 2022-05-27 07:17:03 --> Loader Class Initialized
+INFO - 2022-05-27 07:17:03 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:17:03 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:17:03 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:17:03 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:17:03 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:17:03 --> Email Class Initialized
+INFO - 2022-05-27 07:17:03 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:17:03 --> Model "Users" initialized
+INFO - 2022-05-27 07:17:03 --> Controller Class Initialized
+INFO - 2022-05-27 07:17:03 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:17:03 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:17:03 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:17:03 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:17:03 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:17:03 --> Final output sent to browser
+DEBUG - 2022-05-27 07:17:03 --> Total execution time: 0.1139
+ERROR - 2022-05-27 07:17:30 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:17:30 --> Config Class Initialized
+INFO - 2022-05-27 07:17:30 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:17:30 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:17:30 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:17:30 --> URI Class Initialized
+INFO - 2022-05-27 07:17:30 --> Router Class Initialized
+INFO - 2022-05-27 07:17:30 --> Output Class Initialized
+INFO - 2022-05-27 07:17:30 --> Security Class Initialized
+DEBUG - 2022-05-27 07:17:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:17:30 --> CSRF cookie sent
+INFO - 2022-05-27 07:17:30 --> CSRF token verified
+INFO - 2022-05-27 07:17:30 --> Input Class Initialized
+INFO - 2022-05-27 07:17:30 --> Language Class Initialized
+INFO - 2022-05-27 07:17:30 --> Loader Class Initialized
+INFO - 2022-05-27 07:17:30 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:17:30 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:17:30 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:17:30 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:17:30 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:17:30 --> Email Class Initialized
+INFO - 2022-05-27 07:17:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:17:30 --> Model "Users" initialized
+INFO - 2022-05-27 07:17:30 --> Controller Class Initialized
+INFO - 2022-05-27 07:17:30 --> Model "MailContent" initialized
+ERROR - 2022-05-27 07:18:16 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:18:16 --> Config Class Initialized
+INFO - 2022-05-27 07:18:16 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:18:16 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:18:16 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:18:16 --> URI Class Initialized
+INFO - 2022-05-27 07:18:16 --> Router Class Initialized
+INFO - 2022-05-27 07:18:16 --> Output Class Initialized
+INFO - 2022-05-27 07:18:16 --> Security Class Initialized
+DEBUG - 2022-05-27 07:18:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:18:16 --> CSRF cookie sent
+INFO - 2022-05-27 07:18:16 --> Input Class Initialized
+INFO - 2022-05-27 07:18:16 --> Language Class Initialized
+INFO - 2022-05-27 07:18:16 --> Loader Class Initialized
+INFO - 2022-05-27 07:18:17 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:18:17 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:18:17 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:18:17 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:18:17 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:18:17 --> Email Class Initialized
+INFO - 2022-05-27 07:18:17 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:18:17 --> Model "Users" initialized
+INFO - 2022-05-27 07:18:17 --> Controller Class Initialized
+INFO - 2022-05-27 07:18:17 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:18:17 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:18:17 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:18:17 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:18:17 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:18:17 --> Final output sent to browser
+DEBUG - 2022-05-27 07:18:17 --> Total execution time: 0.0846
+ERROR - 2022-05-27 07:18:20 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:18:20 --> Config Class Initialized
+INFO - 2022-05-27 07:18:20 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:18:20 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:18:20 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:18:20 --> URI Class Initialized
+INFO - 2022-05-27 07:18:20 --> Router Class Initialized
+INFO - 2022-05-27 07:18:20 --> Output Class Initialized
+INFO - 2022-05-27 07:18:20 --> Security Class Initialized
+DEBUG - 2022-05-27 07:18:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:18:20 --> CSRF cookie sent
+INFO - 2022-05-27 07:18:20 --> CSRF token verified
+INFO - 2022-05-27 07:18:20 --> Input Class Initialized
+INFO - 2022-05-27 07:18:20 --> Language Class Initialized
+INFO - 2022-05-27 07:18:20 --> Loader Class Initialized
+INFO - 2022-05-27 07:18:20 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:18:20 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:18:20 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:18:20 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:18:20 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:18:20 --> Email Class Initialized
+INFO - 2022-05-27 07:18:20 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:18:20 --> Model "Users" initialized
+INFO - 2022-05-27 07:18:20 --> Controller Class Initialized
+INFO - 2022-05-27 07:18:20 --> Model "MailContent" initialized
+ERROR - 2022-05-27 07:18:23 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:18:23 --> Config Class Initialized
+INFO - 2022-05-27 07:18:23 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:18:23 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:18:23 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:18:23 --> URI Class Initialized
+INFO - 2022-05-27 07:18:23 --> Router Class Initialized
+INFO - 2022-05-27 07:18:23 --> Output Class Initialized
+INFO - 2022-05-27 07:18:23 --> Security Class Initialized
+DEBUG - 2022-05-27 07:18:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:18:23 --> CSRF cookie sent
+INFO - 2022-05-27 07:18:23 --> Input Class Initialized
+INFO - 2022-05-27 07:18:23 --> Language Class Initialized
+INFO - 2022-05-27 07:18:23 --> Loader Class Initialized
+INFO - 2022-05-27 07:18:23 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:18:23 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:18:23 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:18:23 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:18:23 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:18:23 --> Email Class Initialized
+INFO - 2022-05-27 07:18:23 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:18:23 --> Model "Users" initialized
+INFO - 2022-05-27 07:18:23 --> Controller Class Initialized
+INFO - 2022-05-27 07:18:23 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:18:23 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:18:23 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:18:23 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:18:23 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:18:23 --> Final output sent to browser
+DEBUG - 2022-05-27 07:18:23 --> Total execution time: 0.0835
+ERROR - 2022-05-27 07:18:28 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:18:28 --> Config Class Initialized
+INFO - 2022-05-27 07:18:28 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:18:28 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:18:28 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:18:28 --> URI Class Initialized
+INFO - 2022-05-27 07:18:28 --> Router Class Initialized
+INFO - 2022-05-27 07:18:28 --> Output Class Initialized
+INFO - 2022-05-27 07:18:28 --> Security Class Initialized
+DEBUG - 2022-05-27 07:18:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:18:28 --> CSRF cookie sent
+INFO - 2022-05-27 07:18:28 --> Input Class Initialized
+INFO - 2022-05-27 07:18:28 --> Language Class Initialized
+INFO - 2022-05-27 07:18:28 --> Loader Class Initialized
+INFO - 2022-05-27 07:18:28 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:18:28 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:18:28 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:18:28 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:18:28 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:18:28 --> Email Class Initialized
+INFO - 2022-05-27 07:18:28 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:18:28 --> Model "Users" initialized
+INFO - 2022-05-27 07:18:28 --> Controller Class Initialized
+INFO - 2022-05-27 07:18:28 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:18:28 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:18:28 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:18:28 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:18:28 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:18:28 --> Final output sent to browser
+DEBUG - 2022-05-27 07:18:28 --> Total execution time: 0.0780
+ERROR - 2022-05-27 07:18:41 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:18:41 --> Config Class Initialized
+INFO - 2022-05-27 07:18:41 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:18:41 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:18:41 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:18:41 --> URI Class Initialized
+INFO - 2022-05-27 07:18:41 --> Router Class Initialized
+INFO - 2022-05-27 07:18:41 --> Output Class Initialized
+INFO - 2022-05-27 07:18:41 --> Security Class Initialized
+DEBUG - 2022-05-27 07:18:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:18:41 --> CSRF cookie sent
+INFO - 2022-05-27 07:18:41 --> CSRF token verified
+INFO - 2022-05-27 07:18:41 --> Input Class Initialized
+INFO - 2022-05-27 07:18:41 --> Language Class Initialized
+INFO - 2022-05-27 07:18:41 --> Loader Class Initialized
+INFO - 2022-05-27 07:18:41 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:18:41 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:18:41 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:18:41 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:18:41 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:18:41 --> Email Class Initialized
+INFO - 2022-05-27 07:18:41 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:18:41 --> Model "Users" initialized
+INFO - 2022-05-27 07:18:41 --> Controller Class Initialized
+INFO - 2022-05-27 07:18:41 --> Model "MailContent" initialized
+ERROR - 2022-05-27 07:18:44 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:18:44 --> Config Class Initialized
+INFO - 2022-05-27 07:18:44 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:18:44 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:18:44 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:18:44 --> URI Class Initialized
+INFO - 2022-05-27 07:18:44 --> Router Class Initialized
+INFO - 2022-05-27 07:18:44 --> Output Class Initialized
+INFO - 2022-05-27 07:18:44 --> Security Class Initialized
+DEBUG - 2022-05-27 07:18:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:18:44 --> CSRF cookie sent
+INFO - 2022-05-27 07:18:44 --> Input Class Initialized
+INFO - 2022-05-27 07:18:44 --> Language Class Initialized
+INFO - 2022-05-27 07:18:44 --> Loader Class Initialized
+INFO - 2022-05-27 07:18:44 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:18:44 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:18:44 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:18:44 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:18:44 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:18:44 --> Email Class Initialized
+INFO - 2022-05-27 07:18:44 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:18:44 --> Model "Users" initialized
+INFO - 2022-05-27 07:18:44 --> Controller Class Initialized
+INFO - 2022-05-27 07:18:44 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:18:44 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:18:44 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:18:44 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:18:44 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:18:44 --> Final output sent to browser
+DEBUG - 2022-05-27 07:18:44 --> Total execution time: 0.0787
+ERROR - 2022-05-27 07:18:48 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:18:48 --> Config Class Initialized
+INFO - 2022-05-27 07:18:48 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:18:48 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:18:48 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:18:48 --> URI Class Initialized
+INFO - 2022-05-27 07:18:48 --> Router Class Initialized
+INFO - 2022-05-27 07:18:48 --> Output Class Initialized
+INFO - 2022-05-27 07:18:48 --> Security Class Initialized
+DEBUG - 2022-05-27 07:18:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:18:48 --> CSRF cookie sent
+INFO - 2022-05-27 07:18:48 --> CSRF token verified
+INFO - 2022-05-27 07:18:48 --> Input Class Initialized
+INFO - 2022-05-27 07:18:48 --> Language Class Initialized
+INFO - 2022-05-27 07:18:48 --> Loader Class Initialized
+INFO - 2022-05-27 07:18:48 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:18:48 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:18:48 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:18:48 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:18:49 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:18:49 --> Email Class Initialized
+INFO - 2022-05-27 07:18:49 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:18:49 --> Model "Users" initialized
+INFO - 2022-05-27 07:18:49 --> Controller Class Initialized
+INFO - 2022-05-27 07:18:49 --> Model "MailContent" initialized
+ERROR - 2022-05-27 07:19:52 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:19:52 --> Config Class Initialized
+INFO - 2022-05-27 07:19:52 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:19:52 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:19:52 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:19:52 --> URI Class Initialized
+INFO - 2022-05-27 07:19:52 --> Router Class Initialized
+INFO - 2022-05-27 07:19:52 --> Output Class Initialized
+INFO - 2022-05-27 07:19:52 --> Security Class Initialized
+DEBUG - 2022-05-27 07:19:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:19:52 --> CSRF cookie sent
+INFO - 2022-05-27 07:19:52 --> Input Class Initialized
+INFO - 2022-05-27 07:19:52 --> Language Class Initialized
+INFO - 2022-05-27 07:19:52 --> Loader Class Initialized
+INFO - 2022-05-27 07:19:52 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:19:52 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:19:52 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:19:52 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:19:52 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:19:52 --> Email Class Initialized
+INFO - 2022-05-27 07:19:52 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:19:52 --> Model "Users" initialized
+INFO - 2022-05-27 07:19:52 --> Controller Class Initialized
+INFO - 2022-05-27 07:19:52 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:19:52 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:19:52 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:19:52 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:19:52 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:19:52 --> Final output sent to browser
+DEBUG - 2022-05-27 07:19:52 --> Total execution time: 0.0797
+ERROR - 2022-05-27 07:19:53 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:19:53 --> Config Class Initialized
+INFO - 2022-05-27 07:19:53 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:19:53 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:19:53 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:19:53 --> URI Class Initialized
+INFO - 2022-05-27 07:19:53 --> Router Class Initialized
+INFO - 2022-05-27 07:19:53 --> Output Class Initialized
+INFO - 2022-05-27 07:19:53 --> Security Class Initialized
+DEBUG - 2022-05-27 07:19:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:19:53 --> CSRF cookie sent
+INFO - 2022-05-27 07:19:53 --> Input Class Initialized
+INFO - 2022-05-27 07:19:53 --> Language Class Initialized
+INFO - 2022-05-27 07:19:53 --> Loader Class Initialized
+INFO - 2022-05-27 07:19:53 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:19:53 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:19:53 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:19:53 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:19:53 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:19:53 --> Email Class Initialized
+INFO - 2022-05-27 07:19:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:19:53 --> Model "Users" initialized
+INFO - 2022-05-27 07:19:53 --> Controller Class Initialized
+INFO - 2022-05-27 07:19:53 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:19:53 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:19:53 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:19:53 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:19:53 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:19:53 --> Final output sent to browser
+DEBUG - 2022-05-27 07:19:53 --> Total execution time: 0.1099
+ERROR - 2022-05-27 07:19:56 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:19:56 --> Config Class Initialized
+INFO - 2022-05-27 07:19:56 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:19:56 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:19:56 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:19:56 --> URI Class Initialized
+INFO - 2022-05-27 07:19:56 --> Router Class Initialized
+INFO - 2022-05-27 07:19:56 --> Output Class Initialized
+INFO - 2022-05-27 07:19:56 --> Security Class Initialized
+DEBUG - 2022-05-27 07:19:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:19:56 --> CSRF cookie sent
+INFO - 2022-05-27 07:19:56 --> CSRF token verified
+INFO - 2022-05-27 07:19:56 --> Input Class Initialized
+INFO - 2022-05-27 07:19:56 --> Language Class Initialized
+INFO - 2022-05-27 07:19:56 --> Loader Class Initialized
+INFO - 2022-05-27 07:19:56 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:19:56 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:19:56 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:19:56 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:19:56 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:19:56 --> Email Class Initialized
+INFO - 2022-05-27 07:19:56 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:19:56 --> Model "Users" initialized
+INFO - 2022-05-27 07:19:56 --> Controller Class Initialized
+INFO - 2022-05-27 07:19:56 --> Model "MailContent" initialized
+ERROR - 2022-05-27 07:19:56 --> Severity: Warning --> print_r() expects parameter 2 to be bool, array given G:\xampp\htdocs\newsletter\btc\controllers\Admin.php 75
+ERROR - 2022-05-27 07:20:27 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:20:27 --> Config Class Initialized
+INFO - 2022-05-27 07:20:27 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:20:27 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:20:27 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:20:27 --> URI Class Initialized
+INFO - 2022-05-27 07:20:27 --> Router Class Initialized
+INFO - 2022-05-27 07:20:27 --> Output Class Initialized
+INFO - 2022-05-27 07:20:27 --> Security Class Initialized
+DEBUG - 2022-05-27 07:20:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:20:27 --> CSRF cookie sent
+ERROR - 2022-05-27 07:20:30 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:20:30 --> Config Class Initialized
+INFO - 2022-05-27 07:20:30 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:20:30 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:20:30 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:20:30 --> URI Class Initialized
+INFO - 2022-05-27 07:20:30 --> Router Class Initialized
+INFO - 2022-05-27 07:20:30 --> Output Class Initialized
+INFO - 2022-05-27 07:20:30 --> Security Class Initialized
+DEBUG - 2022-05-27 07:20:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:20:30 --> CSRF cookie sent
+INFO - 2022-05-27 07:20:30 --> Input Class Initialized
+INFO - 2022-05-27 07:20:30 --> Language Class Initialized
+INFO - 2022-05-27 07:20:30 --> Loader Class Initialized
+INFO - 2022-05-27 07:20:30 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:20:30 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:20:30 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:20:30 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:20:30 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:20:30 --> Email Class Initialized
+INFO - 2022-05-27 07:20:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:20:30 --> Model "Users" initialized
+INFO - 2022-05-27 07:20:30 --> Controller Class Initialized
+INFO - 2022-05-27 07:20:30 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:20:30 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:20:30 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:20:30 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:20:30 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:20:30 --> Final output sent to browser
+DEBUG - 2022-05-27 07:20:30 --> Total execution time: 0.1073
+ERROR - 2022-05-27 07:20:32 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:20:32 --> Config Class Initialized
+INFO - 2022-05-27 07:20:32 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:20:32 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:20:32 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:20:32 --> URI Class Initialized
+INFO - 2022-05-27 07:20:32 --> Router Class Initialized
+INFO - 2022-05-27 07:20:32 --> Output Class Initialized
+INFO - 2022-05-27 07:20:32 --> Security Class Initialized
+DEBUG - 2022-05-27 07:20:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:20:32 --> CSRF cookie sent
+INFO - 2022-05-27 07:20:32 --> CSRF token verified
+INFO - 2022-05-27 07:20:32 --> Input Class Initialized
+INFO - 2022-05-27 07:20:32 --> Language Class Initialized
+INFO - 2022-05-27 07:20:32 --> Loader Class Initialized
+INFO - 2022-05-27 07:20:32 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:20:32 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:20:32 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:20:32 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:20:32 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:20:32 --> Email Class Initialized
+INFO - 2022-05-27 07:20:32 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:20:32 --> Model "Users" initialized
+INFO - 2022-05-27 07:20:32 --> Controller Class Initialized
+INFO - 2022-05-27 07:20:32 --> Model "MailContent" initialized
+ERROR - 2022-05-27 07:23:00 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:23:00 --> Config Class Initialized
+INFO - 2022-05-27 07:23:00 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:23:00 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:23:00 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:23:00 --> URI Class Initialized
+INFO - 2022-05-27 07:23:00 --> Router Class Initialized
+INFO - 2022-05-27 07:23:00 --> Output Class Initialized
+INFO - 2022-05-27 07:23:00 --> Security Class Initialized
+DEBUG - 2022-05-27 07:23:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:23:00 --> CSRF cookie sent
+INFO - 2022-05-27 07:23:00 --> Input Class Initialized
+INFO - 2022-05-27 07:23:00 --> Language Class Initialized
+INFO - 2022-05-27 07:23:00 --> Loader Class Initialized
+INFO - 2022-05-27 07:23:00 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:23:00 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:23:00 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:23:00 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:23:00 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:23:00 --> Email Class Initialized
+INFO - 2022-05-27 07:23:00 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:23:00 --> Model "Users" initialized
+INFO - 2022-05-27 07:23:00 --> Controller Class Initialized
+INFO - 2022-05-27 07:23:00 --> Model "MailContent" initialized
+ERROR - 2022-05-27 07:23:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM subscribers AS s 
+                            INNER JOIN news_letter ...' at line 1 - Invalid query: SELECT s.id AS sub_id, * FROM subscribers AS s 
+                            INNER JOIN news_letter AS l ON s.letter_id=l.id
+INFO - 2022-05-27 07:23:00 --> Language file loaded: language/english/db_lang.php
+ERROR - 2022-05-27 07:24:43 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:24:43 --> Config Class Initialized
+INFO - 2022-05-27 07:24:43 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:24:43 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:24:43 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:24:43 --> URI Class Initialized
+INFO - 2022-05-27 07:24:43 --> Router Class Initialized
+INFO - 2022-05-27 07:24:43 --> Output Class Initialized
+INFO - 2022-05-27 07:24:43 --> Security Class Initialized
+DEBUG - 2022-05-27 07:24:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:24:43 --> CSRF cookie sent
+INFO - 2022-05-27 07:24:43 --> Input Class Initialized
+INFO - 2022-05-27 07:24:43 --> Language Class Initialized
+INFO - 2022-05-27 07:24:43 --> Loader Class Initialized
+INFO - 2022-05-27 07:24:43 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:24:43 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:24:43 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:24:43 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:24:43 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:24:43 --> Email Class Initialized
+INFO - 2022-05-27 07:24:43 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:24:43 --> Model "Users" initialized
+INFO - 2022-05-27 07:24:43 --> Controller Class Initialized
+INFO - 2022-05-27 07:24:43 --> Model "MailContent" initialized
+ERROR - 2022-05-27 07:24:43 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM subscribers AS s 
+                            INNER JOIN news_letter ...' at line 1 - Invalid query: SELECT s.id AS sub_id, * FROM subscribers AS s 
+                            INNER JOIN news_letter AS l ON s.letter_id=l.id
+INFO - 2022-05-27 07:24:43 --> Language file loaded: language/english/db_lang.php
+ERROR - 2022-05-27 07:25:27 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:25:27 --> Config Class Initialized
+INFO - 2022-05-27 07:25:27 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:25:27 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:25:27 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:25:27 --> URI Class Initialized
+INFO - 2022-05-27 07:25:27 --> Router Class Initialized
+INFO - 2022-05-27 07:25:27 --> Output Class Initialized
+INFO - 2022-05-27 07:25:27 --> Security Class Initialized
+DEBUG - 2022-05-27 07:25:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:25:27 --> CSRF cookie sent
+INFO - 2022-05-27 07:25:27 --> Input Class Initialized
+INFO - 2022-05-27 07:25:27 --> Language Class Initialized
+INFO - 2022-05-27 07:25:27 --> Loader Class Initialized
+INFO - 2022-05-27 07:25:27 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:25:27 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:25:27 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:25:27 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:25:27 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:25:27 --> Email Class Initialized
+INFO - 2022-05-27 07:25:27 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:25:27 --> Model "Users" initialized
+INFO - 2022-05-27 07:25:27 --> Controller Class Initialized
+INFO - 2022-05-27 07:25:27 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:25:27 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:25:27 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+ERROR - 2022-05-27 07:26:08 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:26:08 --> Config Class Initialized
+INFO - 2022-05-27 07:26:08 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:26:08 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:26:08 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:26:09 --> URI Class Initialized
+INFO - 2022-05-27 07:26:09 --> Router Class Initialized
+INFO - 2022-05-27 07:26:09 --> Output Class Initialized
+INFO - 2022-05-27 07:26:09 --> Security Class Initialized
+DEBUG - 2022-05-27 07:26:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:26:09 --> CSRF cookie sent
+INFO - 2022-05-27 07:26:09 --> Input Class Initialized
+INFO - 2022-05-27 07:26:09 --> Language Class Initialized
+INFO - 2022-05-27 07:26:09 --> Loader Class Initialized
+INFO - 2022-05-27 07:26:09 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:26:09 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:26:09 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:26:09 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:26:09 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:26:09 --> Email Class Initialized
+INFO - 2022-05-27 07:26:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:26:09 --> Model "Users" initialized
+INFO - 2022-05-27 07:26:09 --> Controller Class Initialized
+INFO - 2022-05-27 07:26:09 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:26:09 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:26:09 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:26:09 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:26:09 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:26:09 --> Final output sent to browser
+DEBUG - 2022-05-27 07:26:09 --> Total execution time: 0.0906
+ERROR - 2022-05-27 07:26:12 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:26:12 --> Config Class Initialized
+INFO - 2022-05-27 07:26:12 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:26:12 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:26:12 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:26:12 --> URI Class Initialized
+INFO - 2022-05-27 07:26:12 --> Router Class Initialized
+INFO - 2022-05-27 07:26:12 --> Output Class Initialized
+INFO - 2022-05-27 07:26:12 --> Security Class Initialized
+DEBUG - 2022-05-27 07:26:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:26:12 --> CSRF cookie sent
+INFO - 2022-05-27 07:26:12 --> CSRF token verified
+INFO - 2022-05-27 07:26:12 --> Input Class Initialized
+INFO - 2022-05-27 07:26:12 --> Language Class Initialized
+INFO - 2022-05-27 07:26:12 --> Loader Class Initialized
+INFO - 2022-05-27 07:26:12 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:26:12 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:26:12 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:26:12 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:26:12 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:26:12 --> Email Class Initialized
+INFO - 2022-05-27 07:26:12 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:26:12 --> Model "Users" initialized
+INFO - 2022-05-27 07:26:12 --> Controller Class Initialized
+INFO - 2022-05-27 07:26:12 --> Model "MailContent" initialized
+ERROR - 2022-05-27 07:30:14 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:30:14 --> Config Class Initialized
+INFO - 2022-05-27 07:30:14 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:30:14 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:30:14 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:30:14 --> URI Class Initialized
+INFO - 2022-05-27 07:30:14 --> Router Class Initialized
+INFO - 2022-05-27 07:30:14 --> Output Class Initialized
+INFO - 2022-05-27 07:30:14 --> Security Class Initialized
+DEBUG - 2022-05-27 07:30:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:30:14 --> CSRF cookie sent
+INFO - 2022-05-27 07:30:14 --> Input Class Initialized
+INFO - 2022-05-27 07:30:14 --> Language Class Initialized
+INFO - 2022-05-27 07:30:14 --> Loader Class Initialized
+INFO - 2022-05-27 07:30:14 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:30:14 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:30:14 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:30:14 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:30:14 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:30:14 --> Email Class Initialized
+INFO - 2022-05-27 07:30:14 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:30:14 --> Model "Users" initialized
+INFO - 2022-05-27 07:30:14 --> Controller Class Initialized
+INFO - 2022-05-27 07:30:14 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:30:14 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:30:14 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:30:14 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:30:14 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:30:14 --> Final output sent to browser
+DEBUG - 2022-05-27 07:30:14 --> Total execution time: 0.1033
+ERROR - 2022-05-27 07:30:52 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:30:52 --> Config Class Initialized
+INFO - 2022-05-27 07:30:52 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:30:52 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:30:52 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:30:52 --> URI Class Initialized
+INFO - 2022-05-27 07:30:52 --> Router Class Initialized
+INFO - 2022-05-27 07:30:52 --> Output Class Initialized
+INFO - 2022-05-27 07:30:52 --> Security Class Initialized
+DEBUG - 2022-05-27 07:30:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:30:52 --> CSRF cookie sent
+INFO - 2022-05-27 07:30:52 --> Input Class Initialized
+INFO - 2022-05-27 07:30:52 --> Language Class Initialized
+INFO - 2022-05-27 07:30:52 --> Loader Class Initialized
+INFO - 2022-05-27 07:30:52 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:30:52 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:30:52 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:30:52 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:30:52 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:30:52 --> Email Class Initialized
+INFO - 2022-05-27 07:30:52 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:30:52 --> Model "Users" initialized
+INFO - 2022-05-27 07:30:52 --> Controller Class Initialized
+INFO - 2022-05-27 07:30:52 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:30:52 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:30:52 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:30:52 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:30:52 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:30:52 --> Final output sent to browser
+DEBUG - 2022-05-27 07:30:52 --> Total execution time: 0.1138
+ERROR - 2022-05-27 07:31:04 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:31:04 --> Config Class Initialized
+INFO - 2022-05-27 07:31:04 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:31:04 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:31:04 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:31:04 --> URI Class Initialized
+INFO - 2022-05-27 07:31:04 --> Router Class Initialized
+INFO - 2022-05-27 07:31:04 --> Output Class Initialized
+INFO - 2022-05-27 07:31:04 --> Security Class Initialized
+DEBUG - 2022-05-27 07:31:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:31:04 --> CSRF cookie sent
+INFO - 2022-05-27 07:31:04 --> Input Class Initialized
+INFO - 2022-05-27 07:31:04 --> Language Class Initialized
+INFO - 2022-05-27 07:31:04 --> Loader Class Initialized
+INFO - 2022-05-27 07:31:04 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:31:04 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:31:04 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:31:04 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:31:04 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:31:04 --> Email Class Initialized
+INFO - 2022-05-27 07:31:04 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:31:04 --> Model "Users" initialized
+INFO - 2022-05-27 07:31:04 --> Controller Class Initialized
+INFO - 2022-05-27 07:31:04 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:31:04 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:31:04 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:31:04 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:31:04 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:31:04 --> Final output sent to browser
+DEBUG - 2022-05-27 07:31:04 --> Total execution time: 0.0884
+ERROR - 2022-05-27 07:31:49 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:31:49 --> Config Class Initialized
+INFO - 2022-05-27 07:31:49 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:31:49 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:31:49 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:31:49 --> URI Class Initialized
+INFO - 2022-05-27 07:31:49 --> Router Class Initialized
+INFO - 2022-05-27 07:31:49 --> Output Class Initialized
+INFO - 2022-05-27 07:31:49 --> Security Class Initialized
+DEBUG - 2022-05-27 07:31:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:31:49 --> CSRF cookie sent
+INFO - 2022-05-27 07:31:49 --> CSRF token verified
+INFO - 2022-05-27 07:31:49 --> Input Class Initialized
+INFO - 2022-05-27 07:31:49 --> Language Class Initialized
+INFO - 2022-05-27 07:31:49 --> Loader Class Initialized
+INFO - 2022-05-27 07:31:49 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:31:49 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:31:49 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:31:49 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:31:49 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:31:49 --> Email Class Initialized
+INFO - 2022-05-27 07:31:49 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:31:49 --> Model "Users" initialized
+INFO - 2022-05-27 07:31:49 --> Controller Class Initialized
+INFO - 2022-05-27 07:31:49 --> Model "MailContent" initialized
+ERROR - 2022-05-27 07:41:25 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:41:25 --> Config Class Initialized
+INFO - 2022-05-27 07:41:25 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:41:25 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:41:25 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:41:25 --> URI Class Initialized
+INFO - 2022-05-27 07:41:25 --> Router Class Initialized
+INFO - 2022-05-27 07:41:25 --> Output Class Initialized
+INFO - 2022-05-27 07:41:25 --> Security Class Initialized
+DEBUG - 2022-05-27 07:41:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:41:25 --> CSRF cookie sent
+INFO - 2022-05-27 07:41:25 --> Input Class Initialized
+INFO - 2022-05-27 07:41:25 --> Language Class Initialized
+INFO - 2022-05-27 07:41:25 --> Loader Class Initialized
+INFO - 2022-05-27 07:41:25 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:41:25 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:41:25 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:41:25 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:41:25 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:41:25 --> Email Class Initialized
+INFO - 2022-05-27 07:41:25 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:41:25 --> Model "Users" initialized
+INFO - 2022-05-27 07:41:25 --> Controller Class Initialized
+INFO - 2022-05-27 07:41:25 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:41:25 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:41:25 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:41:25 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:41:25 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:41:25 --> Final output sent to browser
+DEBUG - 2022-05-27 07:41:25 --> Total execution time: 0.0858
+ERROR - 2022-05-27 07:41:26 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:41:26 --> Config Class Initialized
+INFO - 2022-05-27 07:41:26 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:41:26 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:41:26 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:41:26 --> URI Class Initialized
+INFO - 2022-05-27 07:41:26 --> Router Class Initialized
+INFO - 2022-05-27 07:41:26 --> Output Class Initialized
+INFO - 2022-05-27 07:41:26 --> Security Class Initialized
+DEBUG - 2022-05-27 07:41:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:41:26 --> CSRF cookie sent
+INFO - 2022-05-27 07:41:26 --> Input Class Initialized
+INFO - 2022-05-27 07:41:26 --> Language Class Initialized
+INFO - 2022-05-27 07:41:26 --> Loader Class Initialized
+INFO - 2022-05-27 07:41:26 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:41:26 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:41:26 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:41:26 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:41:26 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:41:26 --> Email Class Initialized
+INFO - 2022-05-27 07:41:26 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:41:26 --> Model "Users" initialized
+INFO - 2022-05-27 07:41:26 --> Controller Class Initialized
+INFO - 2022-05-27 07:41:26 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:41:26 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:41:26 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:41:26 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:41:26 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:41:26 --> Final output sent to browser
+DEBUG - 2022-05-27 07:41:26 --> Total execution time: 0.0987
+ERROR - 2022-05-27 07:41:29 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:41:29 --> Config Class Initialized
+INFO - 2022-05-27 07:41:29 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:41:29 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:41:29 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:41:29 --> URI Class Initialized
+INFO - 2022-05-27 07:41:29 --> Router Class Initialized
+INFO - 2022-05-27 07:41:29 --> Output Class Initialized
+INFO - 2022-05-27 07:41:29 --> Security Class Initialized
+DEBUG - 2022-05-27 07:41:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:41:29 --> CSRF cookie sent
+INFO - 2022-05-27 07:41:29 --> CSRF token verified
+INFO - 2022-05-27 07:41:29 --> Input Class Initialized
+INFO - 2022-05-27 07:41:29 --> Language Class Initialized
+INFO - 2022-05-27 07:41:29 --> Loader Class Initialized
+INFO - 2022-05-27 07:41:29 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:41:29 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:41:29 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:41:29 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:41:29 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:41:29 --> Email Class Initialized
+INFO - 2022-05-27 07:41:29 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:41:29 --> Model "Users" initialized
+INFO - 2022-05-27 07:41:29 --> Controller Class Initialized
+DEBUG - 2022-05-27 07:41:29 --> Config file loaded: G:\xampp\htdocs\newsletter\btc\config/email.php
+DEBUG - 2022-05-27 07:41:29 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-05-27 07:44:08 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:44:08 --> Config Class Initialized
+INFO - 2022-05-27 07:44:08 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:44:08 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:44:08 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:44:08 --> URI Class Initialized
+INFO - 2022-05-27 07:44:08 --> Router Class Initialized
+INFO - 2022-05-27 07:44:08 --> Output Class Initialized
+INFO - 2022-05-27 07:44:08 --> Security Class Initialized
+DEBUG - 2022-05-27 07:44:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:44:08 --> CSRF cookie sent
+INFO - 2022-05-27 07:44:08 --> Input Class Initialized
+INFO - 2022-05-27 07:44:08 --> Language Class Initialized
+INFO - 2022-05-27 07:44:08 --> Loader Class Initialized
+INFO - 2022-05-27 07:44:08 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:44:08 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:44:08 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:44:08 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:44:08 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:44:08 --> Email Class Initialized
+INFO - 2022-05-27 07:44:08 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:44:08 --> Model "Users" initialized
+INFO - 2022-05-27 07:44:08 --> Controller Class Initialized
+INFO - 2022-05-27 07:44:08 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:44:08 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:44:08 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:44:08 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:44:08 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:44:08 --> Final output sent to browser
+DEBUG - 2022-05-27 07:44:08 --> Total execution time: 0.0923
+ERROR - 2022-05-27 07:44:10 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:44:10 --> Config Class Initialized
+INFO - 2022-05-27 07:44:10 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:44:10 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:44:10 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:44:10 --> URI Class Initialized
+INFO - 2022-05-27 07:44:10 --> Router Class Initialized
+INFO - 2022-05-27 07:44:10 --> Output Class Initialized
+INFO - 2022-05-27 07:44:10 --> Security Class Initialized
+DEBUG - 2022-05-27 07:44:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:44:10 --> CSRF cookie sent
+INFO - 2022-05-27 07:44:10 --> CSRF token verified
+INFO - 2022-05-27 07:44:10 --> Input Class Initialized
+INFO - 2022-05-27 07:44:10 --> Language Class Initialized
+INFO - 2022-05-27 07:44:10 --> Loader Class Initialized
+INFO - 2022-05-27 07:44:10 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:44:10 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:44:10 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:44:10 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:44:10 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:44:10 --> Email Class Initialized
+INFO - 2022-05-27 07:44:10 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:44:10 --> Model "Users" initialized
+INFO - 2022-05-27 07:44:10 --> Controller Class Initialized
+DEBUG - 2022-05-27 07:44:10 --> Config file loaded: G:\xampp\htdocs\newsletter\btc\config/email.php
+DEBUG - 2022-05-27 07:44:10 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-05-27 07:44:41 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:44:41 --> Config Class Initialized
+INFO - 2022-05-27 07:44:41 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:44:41 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:44:41 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:44:41 --> URI Class Initialized
+INFO - 2022-05-27 07:44:41 --> Router Class Initialized
+INFO - 2022-05-27 07:44:41 --> Output Class Initialized
+INFO - 2022-05-27 07:44:41 --> Security Class Initialized
+DEBUG - 2022-05-27 07:44:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:44:41 --> CSRF cookie sent
+INFO - 2022-05-27 07:44:41 --> Input Class Initialized
+INFO - 2022-05-27 07:44:41 --> Language Class Initialized
+INFO - 2022-05-27 07:44:41 --> Loader Class Initialized
+INFO - 2022-05-27 07:44:41 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:44:41 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:44:41 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:44:41 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:44:41 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:44:41 --> Email Class Initialized
+INFO - 2022-05-27 07:44:41 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:44:41 --> Model "Users" initialized
+INFO - 2022-05-27 07:44:41 --> Controller Class Initialized
+INFO - 2022-05-27 07:44:41 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:44:41 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:44:41 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:44:41 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:44:41 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:44:41 --> Final output sent to browser
+DEBUG - 2022-05-27 07:44:41 --> Total execution time: 0.0973
+ERROR - 2022-05-27 07:44:44 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:44:44 --> Config Class Initialized
+INFO - 2022-05-27 07:44:44 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:44:44 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:44:44 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:44:44 --> URI Class Initialized
+INFO - 2022-05-27 07:44:44 --> Router Class Initialized
+INFO - 2022-05-27 07:44:44 --> Output Class Initialized
+INFO - 2022-05-27 07:44:44 --> Security Class Initialized
+DEBUG - 2022-05-27 07:44:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:44:44 --> CSRF cookie sent
+INFO - 2022-05-27 07:44:44 --> Input Class Initialized
+INFO - 2022-05-27 07:44:44 --> Language Class Initialized
+INFO - 2022-05-27 07:44:44 --> Loader Class Initialized
+INFO - 2022-05-27 07:44:44 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:44:44 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:44:44 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:44:44 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:44:44 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:44:44 --> Email Class Initialized
+INFO - 2022-05-27 07:44:44 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:44:44 --> Model "Users" initialized
+INFO - 2022-05-27 07:44:44 --> Controller Class Initialized
+INFO - 2022-05-27 07:44:44 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:44:44 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:44:44 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:44:44 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:44:44 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:44:44 --> Final output sent to browser
+DEBUG - 2022-05-27 07:44:44 --> Total execution time: 0.0825
+ERROR - 2022-05-27 07:44:48 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:44:48 --> Config Class Initialized
+INFO - 2022-05-27 07:44:48 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:44:48 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:44:48 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:44:48 --> URI Class Initialized
+INFO - 2022-05-27 07:44:48 --> Router Class Initialized
+INFO - 2022-05-27 07:44:48 --> Output Class Initialized
+INFO - 2022-05-27 07:44:48 --> Security Class Initialized
+DEBUG - 2022-05-27 07:44:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:44:48 --> CSRF cookie sent
+INFO - 2022-05-27 07:44:48 --> CSRF token verified
+INFO - 2022-05-27 07:44:48 --> Input Class Initialized
+INFO - 2022-05-27 07:44:48 --> Language Class Initialized
+INFO - 2022-05-27 07:44:48 --> Loader Class Initialized
+INFO - 2022-05-27 07:44:48 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:44:48 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:44:48 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:44:48 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:44:48 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:44:48 --> Email Class Initialized
+INFO - 2022-05-27 07:44:48 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:44:48 --> Model "Users" initialized
+INFO - 2022-05-27 07:44:48 --> Controller Class Initialized
+DEBUG - 2022-05-27 07:44:48 --> Config file loaded: G:\xampp\htdocs\newsletter\btc\config/email.php
+DEBUG - 2022-05-27 07:44:48 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-05-27 07:44:48 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:44:48 --> Config Class Initialized
+INFO - 2022-05-27 07:44:48 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:44:48 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:44:48 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:44:48 --> URI Class Initialized
+INFO - 2022-05-27 07:44:48 --> Router Class Initialized
+INFO - 2022-05-27 07:44:48 --> Output Class Initialized
+INFO - 2022-05-27 07:44:48 --> Security Class Initialized
+DEBUG - 2022-05-27 07:44:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:44:48 --> CSRF cookie sent
+INFO - 2022-05-27 07:44:48 --> Input Class Initialized
+INFO - 2022-05-27 07:44:48 --> Language Class Initialized
+INFO - 2022-05-27 07:44:48 --> Loader Class Initialized
+INFO - 2022-05-27 07:44:48 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:44:48 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:44:48 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:44:48 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:44:48 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:44:48 --> Email Class Initialized
+INFO - 2022-05-27 07:44:48 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:44:48 --> Model "Users" initialized
+INFO - 2022-05-27 07:44:48 --> Controller Class Initialized
+INFO - 2022-05-27 07:44:48 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:44:48 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:44:48 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:44:48 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:44:48 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:44:48 --> Final output sent to browser
+DEBUG - 2022-05-27 07:44:48 --> Total execution time: 0.0761
+ERROR - 2022-05-27 07:45:00 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:45:00 --> Config Class Initialized
+INFO - 2022-05-27 07:45:00 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:45:00 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:45:00 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:45:00 --> URI Class Initialized
+INFO - 2022-05-27 07:45:01 --> Router Class Initialized
+INFO - 2022-05-27 07:45:01 --> Output Class Initialized
+INFO - 2022-05-27 07:45:01 --> Security Class Initialized
+DEBUG - 2022-05-27 07:45:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:45:01 --> CSRF cookie sent
+INFO - 2022-05-27 07:45:01 --> Input Class Initialized
+INFO - 2022-05-27 07:45:01 --> Language Class Initialized
+INFO - 2022-05-27 07:45:01 --> Loader Class Initialized
+INFO - 2022-05-27 07:45:01 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:45:01 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:45:01 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:45:01 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:45:01 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:45:01 --> Email Class Initialized
+INFO - 2022-05-27 07:45:01 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:45:01 --> Model "Users" initialized
+INFO - 2022-05-27 07:45:01 --> Controller Class Initialized
+INFO - 2022-05-27 07:45:01 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:45:01 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:45:01 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:45:01 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:45:01 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:45:01 --> Final output sent to browser
+DEBUG - 2022-05-27 07:45:01 --> Total execution time: 0.1143
+ERROR - 2022-05-27 07:45:04 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:45:04 --> Config Class Initialized
+INFO - 2022-05-27 07:45:04 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:45:04 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:45:04 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:45:04 --> URI Class Initialized
+INFO - 2022-05-27 07:45:04 --> Router Class Initialized
+INFO - 2022-05-27 07:45:04 --> Output Class Initialized
+INFO - 2022-05-27 07:45:04 --> Security Class Initialized
+DEBUG - 2022-05-27 07:45:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:45:04 --> CSRF cookie sent
+INFO - 2022-05-27 07:45:04 --> CSRF token verified
+INFO - 2022-05-27 07:45:04 --> Input Class Initialized
+INFO - 2022-05-27 07:45:04 --> Language Class Initialized
+INFO - 2022-05-27 07:45:04 --> Loader Class Initialized
+INFO - 2022-05-27 07:45:04 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:45:04 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:45:04 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:45:04 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:45:04 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:45:04 --> Email Class Initialized
+INFO - 2022-05-27 07:45:04 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:45:04 --> Model "Users" initialized
+INFO - 2022-05-27 07:45:04 --> Controller Class Initialized
+DEBUG - 2022-05-27 07:45:04 --> Config file loaded: G:\xampp\htdocs\newsletter\btc\config/email.php
+DEBUG - 2022-05-27 07:45:04 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-05-27 07:45:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?)' at line 3 - Invalid query: SELECT * FROM subscribers AS s 
+			            	INNER JOIN news_letter AS l ON s.letter_id=l.id 
+			            	WHERE s.id in(?)
+INFO - 2022-05-27 07:45:04 --> Language file loaded: language/english/db_lang.php
+ERROR - 2022-05-27 07:50:45 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:50:45 --> Config Class Initialized
+INFO - 2022-05-27 07:50:45 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:50:45 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:50:45 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:50:45 --> URI Class Initialized
+INFO - 2022-05-27 07:50:45 --> Router Class Initialized
+INFO - 2022-05-27 07:50:45 --> Output Class Initialized
+INFO - 2022-05-27 07:50:45 --> Security Class Initialized
+DEBUG - 2022-05-27 07:50:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:50:45 --> CSRF cookie sent
+INFO - 2022-05-27 07:50:45 --> Input Class Initialized
+INFO - 2022-05-27 07:50:45 --> Language Class Initialized
+INFO - 2022-05-27 07:50:45 --> Loader Class Initialized
+INFO - 2022-05-27 07:50:45 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:50:45 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:50:45 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:50:45 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:50:45 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:50:45 --> Email Class Initialized
+INFO - 2022-05-27 07:50:45 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:50:45 --> Model "Users" initialized
+INFO - 2022-05-27 07:50:45 --> Controller Class Initialized
+DEBUG - 2022-05-27 07:50:45 --> Config file loaded: G:\xampp\htdocs\newsletter\btc\config/email.php
+DEBUG - 2022-05-27 07:50:45 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-05-27 07:51:31 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:51:31 --> Config Class Initialized
+INFO - 2022-05-27 07:51:31 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:51:31 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:51:31 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:51:31 --> URI Class Initialized
+INFO - 2022-05-27 07:51:31 --> Router Class Initialized
+INFO - 2022-05-27 07:51:31 --> Output Class Initialized
+INFO - 2022-05-27 07:51:31 --> Security Class Initialized
+DEBUG - 2022-05-27 07:51:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:51:31 --> CSRF cookie sent
+INFO - 2022-05-27 07:51:31 --> Input Class Initialized
+INFO - 2022-05-27 07:51:31 --> Language Class Initialized
+INFO - 2022-05-27 07:51:31 --> Loader Class Initialized
+INFO - 2022-05-27 07:51:31 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:51:31 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:51:31 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:51:31 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:51:31 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:51:31 --> Email Class Initialized
+INFO - 2022-05-27 07:51:31 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:51:31 --> Model "Users" initialized
+INFO - 2022-05-27 07:51:31 --> Controller Class Initialized
+INFO - 2022-05-27 07:51:31 --> Model "MailContent" initialized
+INFO - 2022-05-27 07:51:31 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 07:51:31 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 07:51:31 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 07:51:31 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 07:51:31 --> Final output sent to browser
+DEBUG - 2022-05-27 07:51:31 --> Total execution time: 0.0826
+ERROR - 2022-05-27 07:52:14 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 07:52:14 --> Config Class Initialized
+INFO - 2022-05-27 07:52:14 --> Hooks Class Initialized
+DEBUG - 2022-05-27 07:52:14 --> UTF-8 Support Enabled
+INFO - 2022-05-27 07:52:14 --> Utf8 Class Initialized
+INFO - 2022-05-27 07:52:14 --> URI Class Initialized
+INFO - 2022-05-27 07:52:14 --> Router Class Initialized
+INFO - 2022-05-27 07:52:14 --> Output Class Initialized
+INFO - 2022-05-27 07:52:14 --> Security Class Initialized
+DEBUG - 2022-05-27 07:52:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 07:52:14 --> CSRF cookie sent
+INFO - 2022-05-27 07:52:14 --> CSRF token verified
+INFO - 2022-05-27 07:52:14 --> Input Class Initialized
+INFO - 2022-05-27 07:52:14 --> Language Class Initialized
+INFO - 2022-05-27 07:52:14 --> Loader Class Initialized
+INFO - 2022-05-27 07:52:14 --> Helper loaded: url_helper
+INFO - 2022-05-27 07:52:14 --> Helper loaded: form_helper
+INFO - 2022-05-27 07:52:14 --> Helper loaded: file_helper
+INFO - 2022-05-27 07:52:14 --> Database Driver Class Initialized
+INFO - 2022-05-27 07:52:14 --> Form Validation Class Initialized
+INFO - 2022-05-27 07:52:14 --> Email Class Initialized
+INFO - 2022-05-27 07:52:14 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 07:52:14 --> Model "Users" initialized
+INFO - 2022-05-27 07:52:14 --> Controller Class Initialized
+DEBUG - 2022-05-27 07:52:14 --> Config file loaded: G:\xampp\htdocs\newsletter\btc\config/email.php
+DEBUG - 2022-05-27 07:52:14 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-05-27 08:00:21 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 08:00:21 --> Config Class Initialized
+INFO - 2022-05-27 08:00:21 --> Hooks Class Initialized
+DEBUG - 2022-05-27 08:00:21 --> UTF-8 Support Enabled
+INFO - 2022-05-27 08:00:21 --> Utf8 Class Initialized
+INFO - 2022-05-27 08:00:21 --> URI Class Initialized
+INFO - 2022-05-27 08:00:21 --> Router Class Initialized
+INFO - 2022-05-27 08:00:21 --> Output Class Initialized
+INFO - 2022-05-27 08:00:21 --> Security Class Initialized
+DEBUG - 2022-05-27 08:00:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 08:00:21 --> CSRF cookie sent
+INFO - 2022-05-27 08:00:21 --> Input Class Initialized
+INFO - 2022-05-27 08:00:21 --> Language Class Initialized
+INFO - 2022-05-27 08:00:21 --> Loader Class Initialized
+INFO - 2022-05-27 08:00:21 --> Helper loaded: url_helper
+INFO - 2022-05-27 08:00:21 --> Helper loaded: form_helper
+INFO - 2022-05-27 08:00:21 --> Helper loaded: file_helper
+INFO - 2022-05-27 08:00:21 --> Database Driver Class Initialized
+INFO - 2022-05-27 08:00:21 --> Form Validation Class Initialized
+INFO - 2022-05-27 08:00:21 --> Email Class Initialized
+INFO - 2022-05-27 08:00:21 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 08:00:21 --> Model "Users" initialized
+INFO - 2022-05-27 08:00:21 --> Controller Class Initialized
+INFO - 2022-05-27 08:00:21 --> Model "MailContent" initialized
+INFO - 2022-05-27 08:00:21 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 08:00:21 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 08:00:21 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 08:00:21 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 08:00:21 --> Final output sent to browser
+DEBUG - 2022-05-27 08:00:21 --> Total execution time: 0.0787
+ERROR - 2022-05-27 08:00:23 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 08:00:23 --> Config Class Initialized
+INFO - 2022-05-27 08:00:23 --> Hooks Class Initialized
+DEBUG - 2022-05-27 08:00:23 --> UTF-8 Support Enabled
+INFO - 2022-05-27 08:00:23 --> Utf8 Class Initialized
+INFO - 2022-05-27 08:00:23 --> URI Class Initialized
+INFO - 2022-05-27 08:00:23 --> Router Class Initialized
+INFO - 2022-05-27 08:00:23 --> Output Class Initialized
+INFO - 2022-05-27 08:00:23 --> Security Class Initialized
+DEBUG - 2022-05-27 08:00:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 08:00:23 --> CSRF cookie sent
+INFO - 2022-05-27 08:00:23 --> CSRF token verified
+INFO - 2022-05-27 08:00:23 --> Input Class Initialized
+INFO - 2022-05-27 08:00:23 --> Language Class Initialized
+INFO - 2022-05-27 08:00:23 --> Loader Class Initialized
+INFO - 2022-05-27 08:00:23 --> Helper loaded: url_helper
+INFO - 2022-05-27 08:00:23 --> Helper loaded: form_helper
+INFO - 2022-05-27 08:00:23 --> Helper loaded: file_helper
+INFO - 2022-05-27 08:00:23 --> Database Driver Class Initialized
+INFO - 2022-05-27 08:00:23 --> Form Validation Class Initialized
+INFO - 2022-05-27 08:00:23 --> Email Class Initialized
+INFO - 2022-05-27 08:00:23 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 08:00:23 --> Model "Users" initialized
+INFO - 2022-05-27 08:00:23 --> Controller Class Initialized
+DEBUG - 2022-05-27 08:00:23 --> Config file loaded: G:\xampp\htdocs\newsletter\btc\config/email.php
+DEBUG - 2022-05-27 08:00:23 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-05-27 08:03:53 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 08:03:53 --> Config Class Initialized
+INFO - 2022-05-27 08:03:53 --> Hooks Class Initialized
+DEBUG - 2022-05-27 08:03:53 --> UTF-8 Support Enabled
+INFO - 2022-05-27 08:03:53 --> Utf8 Class Initialized
+INFO - 2022-05-27 08:03:53 --> URI Class Initialized
+INFO - 2022-05-27 08:03:53 --> Router Class Initialized
+INFO - 2022-05-27 08:03:53 --> Output Class Initialized
+INFO - 2022-05-27 08:03:53 --> Security Class Initialized
+DEBUG - 2022-05-27 08:03:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 08:03:53 --> CSRF cookie sent
+INFO - 2022-05-27 08:03:53 --> Input Class Initialized
+INFO - 2022-05-27 08:03:53 --> Language Class Initialized
+INFO - 2022-05-27 08:03:53 --> Loader Class Initialized
+INFO - 2022-05-27 08:03:53 --> Helper loaded: url_helper
+INFO - 2022-05-27 08:03:53 --> Helper loaded: form_helper
+INFO - 2022-05-27 08:03:53 --> Helper loaded: file_helper
+INFO - 2022-05-27 08:03:53 --> Database Driver Class Initialized
+INFO - 2022-05-27 08:03:53 --> Form Validation Class Initialized
+INFO - 2022-05-27 08:03:53 --> Email Class Initialized
+INFO - 2022-05-27 08:03:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 08:03:53 --> Model "Users" initialized
+INFO - 2022-05-27 08:03:53 --> Controller Class Initialized
+INFO - 2022-05-27 08:03:53 --> Model "MailContent" initialized
+INFO - 2022-05-27 08:03:53 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 08:03:53 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 08:03:53 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 08:03:53 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 08:03:53 --> Final output sent to browser
+DEBUG - 2022-05-27 08:03:53 --> Total execution time: 0.0829
+ERROR - 2022-05-27 08:03:58 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 08:03:58 --> Config Class Initialized
+INFO - 2022-05-27 08:03:58 --> Hooks Class Initialized
+DEBUG - 2022-05-27 08:03:58 --> UTF-8 Support Enabled
+INFO - 2022-05-27 08:03:58 --> Utf8 Class Initialized
+INFO - 2022-05-27 08:03:58 --> URI Class Initialized
+INFO - 2022-05-27 08:03:58 --> Router Class Initialized
+INFO - 2022-05-27 08:03:58 --> Output Class Initialized
+INFO - 2022-05-27 08:03:58 --> Security Class Initialized
+DEBUG - 2022-05-27 08:03:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 08:03:58 --> CSRF cookie sent
+INFO - 2022-05-27 08:03:58 --> CSRF token verified
+INFO - 2022-05-27 08:03:58 --> Input Class Initialized
+INFO - 2022-05-27 08:03:58 --> Language Class Initialized
+INFO - 2022-05-27 08:03:58 --> Loader Class Initialized
+INFO - 2022-05-27 08:03:58 --> Helper loaded: url_helper
+INFO - 2022-05-27 08:03:58 --> Helper loaded: form_helper
+INFO - 2022-05-27 08:03:58 --> Helper loaded: file_helper
+INFO - 2022-05-27 08:03:58 --> Database Driver Class Initialized
+INFO - 2022-05-27 08:03:58 --> Form Validation Class Initialized
+INFO - 2022-05-27 08:03:58 --> Email Class Initialized
+INFO - 2022-05-27 08:03:58 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 08:03:58 --> Model "Users" initialized
+INFO - 2022-05-27 08:03:58 --> Controller Class Initialized
+DEBUG - 2022-05-27 08:03:58 --> Config file loaded: G:\xampp\htdocs\newsletter\btc\config/email.php
+DEBUG - 2022-05-27 08:03:58 --> Email class already loaded. Second attempt ignored.
+INFO - 2022-05-27 08:03:59 --> Language file loaded: language/english/email_lang.php
+ERROR - 2022-05-27 08:04:12 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 08:04:12 --> Config Class Initialized
+INFO - 2022-05-27 08:04:12 --> Hooks Class Initialized
+DEBUG - 2022-05-27 08:04:12 --> UTF-8 Support Enabled
+INFO - 2022-05-27 08:04:12 --> Utf8 Class Initialized
+INFO - 2022-05-27 08:04:12 --> URI Class Initialized
+INFO - 2022-05-27 08:04:12 --> Router Class Initialized
+INFO - 2022-05-27 08:04:12 --> Output Class Initialized
+INFO - 2022-05-27 08:04:12 --> Security Class Initialized
+DEBUG - 2022-05-27 08:04:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 08:04:12 --> CSRF cookie sent
+INFO - 2022-05-27 08:04:12 --> Input Class Initialized
+INFO - 2022-05-27 08:04:12 --> Language Class Initialized
+INFO - 2022-05-27 08:04:12 --> Loader Class Initialized
+INFO - 2022-05-27 08:04:12 --> Helper loaded: url_helper
+INFO - 2022-05-27 08:04:12 --> Helper loaded: form_helper
+INFO - 2022-05-27 08:04:12 --> Helper loaded: file_helper
+INFO - 2022-05-27 08:04:12 --> Database Driver Class Initialized
+INFO - 2022-05-27 08:04:12 --> Form Validation Class Initialized
+INFO - 2022-05-27 08:04:12 --> Email Class Initialized
+INFO - 2022-05-27 08:04:12 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 08:04:12 --> Model "Users" initialized
+INFO - 2022-05-27 08:04:12 --> Controller Class Initialized
+INFO - 2022-05-27 08:04:12 --> Model "MailContent" initialized
+INFO - 2022-05-27 08:04:12 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 08:04:12 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 08:04:12 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 08:04:12 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 08:04:12 --> Final output sent to browser
+DEBUG - 2022-05-27 08:04:12 --> Total execution time: 0.1456
+ERROR - 2022-05-27 08:07:30 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 08:07:30 --> Config Class Initialized
+INFO - 2022-05-27 08:07:30 --> Hooks Class Initialized
+DEBUG - 2022-05-27 08:07:30 --> UTF-8 Support Enabled
+INFO - 2022-05-27 08:07:30 --> Utf8 Class Initialized
+INFO - 2022-05-27 08:07:30 --> URI Class Initialized
+INFO - 2022-05-27 08:07:30 --> Router Class Initialized
+INFO - 2022-05-27 08:07:30 --> Output Class Initialized
+INFO - 2022-05-27 08:07:30 --> Security Class Initialized
+DEBUG - 2022-05-27 08:07:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 08:07:30 --> CSRF cookie sent
+INFO - 2022-05-27 08:07:30 --> Input Class Initialized
+INFO - 2022-05-27 08:07:30 --> Language Class Initialized
+INFO - 2022-05-27 08:07:30 --> Loader Class Initialized
+INFO - 2022-05-27 08:07:30 --> Helper loaded: url_helper
+INFO - 2022-05-27 08:07:30 --> Helper loaded: form_helper
+INFO - 2022-05-27 08:07:30 --> Helper loaded: file_helper
+INFO - 2022-05-27 08:07:30 --> Database Driver Class Initialized
+INFO - 2022-05-27 08:07:30 --> Form Validation Class Initialized
+INFO - 2022-05-27 08:07:30 --> Email Class Initialized
+INFO - 2022-05-27 08:07:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 08:07:30 --> Model "Users" initialized
+INFO - 2022-05-27 08:07:30 --> Controller Class Initialized
+INFO - 2022-05-27 08:07:30 --> Model "MailContent" initialized
+INFO - 2022-05-27 08:07:30 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 08:07:30 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 08:07:30 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 08:07:30 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 08:07:30 --> Final output sent to browser
+DEBUG - 2022-05-27 08:07:30 --> Total execution time: 0.1154
+ERROR - 2022-05-27 08:07:39 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 08:07:39 --> Config Class Initialized
+INFO - 2022-05-27 08:07:39 --> Hooks Class Initialized
+DEBUG - 2022-05-27 08:07:39 --> UTF-8 Support Enabled
+INFO - 2022-05-27 08:07:39 --> Utf8 Class Initialized
+INFO - 2022-05-27 08:07:39 --> URI Class Initialized
+INFO - 2022-05-27 08:07:39 --> Router Class Initialized
+INFO - 2022-05-27 08:07:39 --> Output Class Initialized
+INFO - 2022-05-27 08:07:39 --> Security Class Initialized
+DEBUG - 2022-05-27 08:07:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 08:07:39 --> CSRF cookie sent
+INFO - 2022-05-27 08:07:39 --> CSRF token verified
+INFO - 2022-05-27 08:07:39 --> Input Class Initialized
+INFO - 2022-05-27 08:07:39 --> Language Class Initialized
+INFO - 2022-05-27 08:07:39 --> Loader Class Initialized
+INFO - 2022-05-27 08:07:39 --> Helper loaded: url_helper
+INFO - 2022-05-27 08:07:39 --> Helper loaded: form_helper
+INFO - 2022-05-27 08:07:39 --> Helper loaded: file_helper
+INFO - 2022-05-27 08:07:39 --> Database Driver Class Initialized
+INFO - 2022-05-27 08:07:39 --> Form Validation Class Initialized
+INFO - 2022-05-27 08:07:39 --> Email Class Initialized
+INFO - 2022-05-27 08:07:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 08:07:39 --> Model "Users" initialized
+INFO - 2022-05-27 08:07:39 --> Controller Class Initialized
+DEBUG - 2022-05-27 08:07:39 --> Config file loaded: G:\xampp\htdocs\newsletter\btc\config/email.php
+DEBUG - 2022-05-27 08:07:39 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-05-27 08:07:39 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 08:07:39 --> Config Class Initialized
+INFO - 2022-05-27 08:07:39 --> Hooks Class Initialized
+DEBUG - 2022-05-27 08:07:39 --> UTF-8 Support Enabled
+INFO - 2022-05-27 08:07:39 --> Utf8 Class Initialized
+INFO - 2022-05-27 08:07:39 --> URI Class Initialized
+INFO - 2022-05-27 08:07:39 --> Router Class Initialized
+INFO - 2022-05-27 08:07:39 --> Output Class Initialized
+INFO - 2022-05-27 08:07:39 --> Security Class Initialized
+DEBUG - 2022-05-27 08:07:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 08:07:39 --> CSRF cookie sent
+INFO - 2022-05-27 08:07:39 --> Input Class Initialized
+INFO - 2022-05-27 08:07:39 --> Language Class Initialized
+INFO - 2022-05-27 08:07:39 --> Loader Class Initialized
+INFO - 2022-05-27 08:07:39 --> Helper loaded: url_helper
+INFO - 2022-05-27 08:07:39 --> Helper loaded: form_helper
+INFO - 2022-05-27 08:07:39 --> Helper loaded: file_helper
+INFO - 2022-05-27 08:07:39 --> Database Driver Class Initialized
+INFO - 2022-05-27 08:07:39 --> Form Validation Class Initialized
+INFO - 2022-05-27 08:07:39 --> Email Class Initialized
+INFO - 2022-05-27 08:07:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 08:07:39 --> Model "Users" initialized
+INFO - 2022-05-27 08:07:39 --> Controller Class Initialized
+INFO - 2022-05-27 08:07:39 --> Model "MailContent" initialized
+INFO - 2022-05-27 08:07:39 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 08:07:39 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 08:07:39 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 08:07:39 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 08:07:39 --> Final output sent to browser
+DEBUG - 2022-05-27 08:07:39 --> Total execution time: 0.1032
+ERROR - 2022-05-27 08:11:38 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 08:11:38 --> Config Class Initialized
+INFO - 2022-05-27 08:11:38 --> Hooks Class Initialized
+DEBUG - 2022-05-27 08:11:38 --> UTF-8 Support Enabled
+INFO - 2022-05-27 08:11:38 --> Utf8 Class Initialized
+INFO - 2022-05-27 08:11:38 --> URI Class Initialized
+INFO - 2022-05-27 08:11:38 --> Router Class Initialized
+INFO - 2022-05-27 08:11:38 --> Output Class Initialized
+INFO - 2022-05-27 08:11:38 --> Security Class Initialized
+DEBUG - 2022-05-27 08:11:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 08:11:38 --> CSRF cookie sent
+INFO - 2022-05-27 08:11:38 --> Input Class Initialized
+INFO - 2022-05-27 08:11:38 --> Language Class Initialized
+INFO - 2022-05-27 08:11:38 --> Loader Class Initialized
+INFO - 2022-05-27 08:11:38 --> Helper loaded: url_helper
+INFO - 2022-05-27 08:11:38 --> Helper loaded: form_helper
+INFO - 2022-05-27 08:11:38 --> Helper loaded: file_helper
+INFO - 2022-05-27 08:11:38 --> Database Driver Class Initialized
+INFO - 2022-05-27 08:11:38 --> Form Validation Class Initialized
+INFO - 2022-05-27 08:11:38 --> Email Class Initialized
+INFO - 2022-05-27 08:11:38 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 08:11:38 --> Model "Users" initialized
+INFO - 2022-05-27 08:11:38 --> Controller Class Initialized
+DEBUG - 2022-05-27 08:11:38 --> Config file loaded: G:\xampp\htdocs\newsletter\btc\config/email.php
+DEBUG - 2022-05-27 08:11:38 --> Email class already loaded. Second attempt ignored.
+INFO - 2022-05-27 08:11:39 --> Language file loaded: language/english/email_lang.php
+ERROR - 2022-05-27 08:11:43 --> $config['composer_autoload'] is set to TRUE but G:\xampp\htdocs\newsletter\btc\vendor/autoload.php was not found.
+INFO - 2022-05-27 08:11:43 --> Config Class Initialized
+INFO - 2022-05-27 08:11:43 --> Hooks Class Initialized
+DEBUG - 2022-05-27 08:11:43 --> UTF-8 Support Enabled
+INFO - 2022-05-27 08:11:43 --> Utf8 Class Initialized
+INFO - 2022-05-27 08:11:43 --> URI Class Initialized
+INFO - 2022-05-27 08:11:43 --> Router Class Initialized
+INFO - 2022-05-27 08:11:43 --> Output Class Initialized
+INFO - 2022-05-27 08:11:43 --> Security Class Initialized
+DEBUG - 2022-05-27 08:11:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-05-27 08:11:43 --> CSRF cookie sent
+INFO - 2022-05-27 08:11:43 --> Input Class Initialized
+INFO - 2022-05-27 08:11:43 --> Language Class Initialized
+INFO - 2022-05-27 08:11:43 --> Loader Class Initialized
+INFO - 2022-05-27 08:11:43 --> Helper loaded: url_helper
+INFO - 2022-05-27 08:11:43 --> Helper loaded: form_helper
+INFO - 2022-05-27 08:11:43 --> Helper loaded: file_helper
+INFO - 2022-05-27 08:11:43 --> Database Driver Class Initialized
+INFO - 2022-05-27 08:11:43 --> Form Validation Class Initialized
+INFO - 2022-05-27 08:11:43 --> Email Class Initialized
+INFO - 2022-05-27 08:11:43 --> Session: Class initialized using 'files' driver.
+INFO - 2022-05-27 08:11:43 --> Model "Users" initialized
+INFO - 2022-05-27 08:11:43 --> Controller Class Initialized
+INFO - 2022-05-27 08:11:43 --> Model "MailContent" initialized
+INFO - 2022-05-27 08:11:43 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/header.php
+INFO - 2022-05-27 08:11:43 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/nav.php
+INFO - 2022-05-27 08:11:43 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/index.php
+INFO - 2022-05-27 08:11:43 --> File loaded: G:\xampp\htdocs\newsletter\btc\views\_admin_panel/include_files/footer.php
+INFO - 2022-05-27 08:11:43 --> Final output sent to browser
+DEBUG - 2022-05-27 08:11:43 --> Total execution time: 0.1151
