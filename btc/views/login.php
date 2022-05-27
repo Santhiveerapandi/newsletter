@@ -12,7 +12,7 @@
           <div class="login-wrapper my-auto">
             <h1 class="login-title"><?php echo $title; ?></h1>
             <?php if($this->session->flashdata('message')): ?>
-                <div class="message alert alert-danger">
+                <div class="alert alert-danger message">
                 <?=$this->session->flashdata('message')?>
             </div>
             <?php endif; ?>

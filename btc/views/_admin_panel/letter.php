@@ -10,7 +10,8 @@
         <div class="col-xl-12 col-lg-12">
             <div class="card shadow mb-4">
             	<?php if($this->session->flashdata('message')): ?>
-                <div class="message alert alert-danger">
+                <div class="alert alert-danger alert-dismissible message">
+                    <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
                     <?=$this->session->flashdata('message')?>
                 </div>
                 <?php endif; ?>

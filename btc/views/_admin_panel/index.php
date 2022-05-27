@@ -20,7 +20,8 @@
                 <!-- Card Body -->
                 <div class="card-body">
                     <?php if($this->session->flashdata('message')): ?>
-                    <div class="message alert alert-danger">
+                    <div class="alert alert-danger alert-dismissible message">
+                        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
                         <?=$this->session->flashdata('message')?>
                     </div>
                     <?php endif; 
@@ -50,7 +51,7 @@
                                 </tr>
                                 <tr><td colspan="5">
                                 <button type="submit" name="email_send" class="btn btn-primary">Email Send</button>
-                                <button type="submit" name="delete" class="btn btn-warning">Delete</button>
+                                <input type="submit" name="delete" value="Delete" class="btn btn-warning" />
                             </td></tr>
                             </tfoot>
                             <tbody>

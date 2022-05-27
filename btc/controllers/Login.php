@@ -28,8 +28,8 @@ class Login extends CI_Controller
 
     public function loginaction()
     {
-        $this->form_validation->set_rules('user_email', 'User Email ID', 'trim|required|valid_email|min_length[5]|max_length[150]');
-        $this->form_validation->set_rules('password', 'User Password', 'trim|required|min_length[5]|max_length[15]');
+        $this->form_validation->set_rules('user_email', 'Email', 'trim|required|valid_email|min_length[5]|max_length[150]');
+        $this->form_validation->set_rules('password', 'Password', 'trim|required|min_length[5]|max_length[15]');
         
         if ($this->form_validation->run() == false) {
             # code...

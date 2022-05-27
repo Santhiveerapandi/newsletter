@@ -71,7 +71,9 @@ class Mailer extends CI_Controller {
 				$this->email->message($html_template);
 
 				if ($this->email->send()) {
-					// echo 'Sent with success!';
+					$this->db->set('mail_sent', '1');
+							$this->db->where('id', $letter_id);
+							$this->db->update('subscribers');
 					$this->session->set_flashdata('message', 'Sent with success!');
 				} else {
 					show_error($this->email->print_debugger());
@@ -80,7 +82,7 @@ class Mailer extends CI_Controller {
             }
         } else {
         	$ids = $this->input->post('chk[]');
-        	if($this->input->post('delete')=="") {
+        	if($this->input->post('delete')=="Delete") {
 	            // var_dump($this->input->post(),$this->input->post('chk[]'));die();
 	            $this->db->where_in('id', $ids);
 				$this->db->delete('subscribers');
